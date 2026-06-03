@@ -6,9 +6,10 @@
   <title>Album Cover Art</title>
   <style>
     :root {
-      /* ---- Tunables ------------------------------------------------ */
-      --cycle-ms: 60000;        /* how long each cover is shown (matches JS) */
-      --fade-ms: 1600;          /* crossfade duration */
+      /* ---- Tunables (time values MUST carry a unit, e.g. ms) -------- */
+      --cycle-ms: 60000ms;      /* how long each cover is shown (matches CYCLE_MS in JS) */
+      --fade-ms: 2200ms;        /* crossfade duration between images */
+      --caption-fade-ms: 1800ms;/* caption fade in/out duration (same rate both ways) */
       --zoom-amount: 1.08;      /* slow-zoom end scale; set to 1 for a pure crossfade */
       --backdrop-blur: 60px;
       --backdrop-dim: 0.55;     /* 0 = bright backdrop, 1 = black */
@@ -92,7 +93,7 @@
       z-index: 10;
       max-width: 80vw;
       opacity: 0;
-      transition: opacity 800ms ease-in-out;
+      transition: opacity var(--caption-fade-ms) ease-in-out;
       font-family: "Arial Black", Arial, Helvetica, system-ui, sans-serif;
       color: #fff;
       line-height: 1.12;
@@ -165,8 +166,10 @@
     "use strict";
 
     // ---- Config (keep CYCLE_MS in sync with --cycle-ms in CSS) ----------
-    var CYCLE_MS = 60000;                 // time each image is displayed
-    var CAPTION_HOLD_MS = 10000;          // caption stays up 10s, then fades
+    var CYCLE_MS = 60000;                 // time each album cover is displayed
+    var STARTER_MS = 10000;               // time the opening starter image is shown
+    var CAPTION_DELAY_MS = 5000;          // wait this long after a cover loads, then fade caption in
+    var CAPTION_HOLD_MS = 10000;          // caption stays up this long before fading out
     var REFRESH_MS = 8 * 60 * 60 * 1000;  // full page self-refresh every 8 hours
     var POLL_MS = 5 * 60 * 1000;          // re-check manifest for new art every 5 min
     var MANIFEST_URL = "manifest.json";
@@ -178,7 +181,8 @@
     var starters = [];       // array of starter path strings
     var queue = [];          // shuffled working queue of image objects we pop from
     var lastShownPath = null;// path of the most recent image (avoid repeats)
-    var captionTimer = null;
+    var captionInTimer = null;  // pending delayed fade-in
+    var captionOutTimer = null; // pending fade-out after the hold
 
     function showMessage(text) {
       var el = document.getElementById("message");
@@ -218,28 +222,35 @@
       });
     }
 
-    // MTV-style lower third: show artist / song / album, then fade after a hold.
+    // MTV-style lower third: after a new image loads, wait CAPTION_DELAY_MS,
+    // slowly fade the artist / song / album in, hold, then fade out at the
+    // same rate. Any pending timers are cleared so a fast image change can't
+    // leave a stale caption mid-fade.
     function showCaption(meta) {
-      if (captionTimer) { clearTimeout(captionTimer); captionTimer = null; }
+      if (captionInTimer) { clearTimeout(captionInTimer); captionInTimer = null; }
+      if (captionOutTimer) { clearTimeout(captionOutTimer); captionOutTimer = null; }
+
+      // Hide the previous caption immediately so it doesn't linger over the
+      // new image during the delay.
+      captionEl.classList.remove("is-visible");
 
       var artist = (meta && meta.artist) || "";
       var song = (meta && meta.song) || "";
       var album = (meta && meta.album) || "";
 
-      captionEl.querySelector(".artist").textContent = artist;
-      captionEl.querySelector(".song").textContent = song;
-      captionEl.querySelector(".album").textContent = album;
+      // Nothing to show (e.g. a bare starter image) — stay hidden.
+      if (!artist && !song && !album) return;
 
-      // Nothing to show (e.g. a bare starter image) — keep it hidden.
-      if (!artist && !song && !album) {
-        captionEl.classList.remove("is-visible");
-        return;
-      }
+      captionInTimer = setTimeout(function () {
+        captionEl.querySelector(".artist").textContent = artist;
+        captionEl.querySelector(".song").textContent = song;
+        captionEl.querySelector(".album").textContent = album;
+        captionEl.classList.add("is-visible");
 
-      captionEl.classList.add("is-visible");
-      captionTimer = setTimeout(function () {
-        captionEl.classList.remove("is-visible");
-      }, CAPTION_HOLD_MS);
+        captionOutTimer = setTimeout(function () {
+          captionEl.classList.remove("is-visible");
+        }, CAPTION_HOLD_MS);
+      }, CAPTION_DELAY_MS);
     }
 
     // Swap the hidden slide in with the given image path, then crossfade.
@@ -311,8 +322,8 @@
         return;
       }
 
-      // 2) After one cycle, begin rotating through the album covers.
-      setTimeout(tick, CYCLE_MS);
+      // 2) Show the starter briefly, then begin rotating album covers.
+      setTimeout(tick, STARTER_MS);
 
       // 3) Poll the manifest for new art every 5 minutes.
       setInterval(pollManifest, POLL_MS);
