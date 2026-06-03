@@ -1,0 +1,33 @@
+# ---------------------------------------------------------------------------
+# IMPORTANT: .gitignore controls what is COMMITTED to the repo — NOT what
+# GitHub Pages publishes. Pages serves everything inside the published folder
+# (here: /docs). That's why the website lives in docs/ and the planning docs,
+# scripts, and tooling stay at the repo root, where Pages never serves them.
+# ---------------------------------------------------------------------------
+
+# --- Local agent state (must NEVER be committed; see the PRD) ---------------
+# Secrets and per-machine runtime state used by the generation agent.
+.env
+.env.*
+history.json
+run_log.txt
+
+# --- Editor / OS / tooling cruft --------------------------------------------
+.claude/
+.vscode/
+.idea/
+*.swp
+Thumbs.db
+desktop.ini
+.DS_Store
+
+# --- Python (if the local web server or tooling is used) --------------------
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# --- Scratch / temp ----------------------------------------------------------
+*.tmp
+*.log
+tmp/

@@ -1,0 +1,343 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover" />
+  <title>Album Cover Art</title>
+  <style>
+    :root {
+      /* ---- Tunables ------------------------------------------------ */
+      --cycle-ms: 60000;        /* how long each cover is shown (matches JS) */
+      --fade-ms: 1600;          /* crossfade duration */
+      --zoom-amount: 1.08;      /* slow-zoom end scale; set to 1 for a pure crossfade */
+      --backdrop-blur: 60px;
+      --backdrop-dim: 0.55;     /* 0 = bright backdrop, 1 = black */
+      --bg: #000;
+    }
+
+    * { margin: 0; padding: 0; box-sizing: border-box; }
+
+    html, body {
+      width: 100%;
+      height: 100%;
+      background: var(--bg);
+      overflow: hidden;
+      cursor: none; /* hide cursor for ambient/display use */
+    }
+
+    #stage {
+      position: fixed;
+      inset: 0;
+      background: var(--bg);
+    }
+
+    .slide {
+      position: absolute;
+      inset: 0;
+      opacity: 0;
+      transition: opacity var(--fade-ms) ease-in-out;
+      will-change: opacity;
+    }
+    .slide.is-active { opacity: 1; }
+
+    /* Blurred, enlarged version of the cover filling the whole screen. */
+    .backdrop {
+      position: absolute;
+      inset: -8%; /* overscan so blur edges never show */
+      background-size: cover;
+      background-position: center;
+      filter: blur(var(--backdrop-blur)) saturate(1.1);
+      transform: scale(1.05);
+    }
+    .backdrop::after {
+      content: "";
+      position: absolute;
+      inset: 0;
+      background: rgba(0, 0, 0, var(--backdrop-dim));
+    }
+
+    /* The full, uncropped cover, centered. */
+    .cover {
+      position: absolute;
+      inset: 0;
+      width: 100%;
+      height: 100%;
+      object-fit: contain;
+      filter: drop-shadow(0 24px 60px rgba(0, 0, 0, 0.55));
+    }
+
+    /* Slow Ken Burns zoom applied while a slide is active. */
+    .slide.is-active .cover {
+      animation: kenburns var(--cycle-ms) ease-out forwards;
+    }
+    @keyframes kenburns {
+      from { transform: scale(1); }
+      to   { transform: scale(var(--zoom-amount)); }
+    }
+    .slide.is-active .backdrop {
+      animation: kenburns-backdrop var(--cycle-ms) ease-out forwards;
+    }
+    @keyframes kenburns-backdrop {
+      from { transform: scale(1.05); }
+      to   { transform: scale(calc(1.05 * var(--zoom-amount))); }
+    }
+
+    /* ---- MTV-style lower-third caption -------------------------------
+       Bold white text with a thick black drop shadow, bottom-left.
+       Fades in with a new image, holds, then fades away (see JS). */
+    #caption {
+      position: fixed;
+      left: clamp(20px, 4vw, 64px);
+      bottom: clamp(20px, 5vh, 64px);
+      z-index: 10;
+      max-width: 80vw;
+      opacity: 0;
+      transition: opacity 800ms ease-in-out;
+      font-family: "Arial Black", Arial, Helvetica, system-ui, sans-serif;
+      color: #fff;
+      line-height: 1.12;
+      /* Thick black outline-style drop shadow, layered for weight. */
+      text-shadow:
+        2px 2px 0 #000, -2px 2px 0 #000, 2px -2px 0 #000, -2px -2px 0 #000,
+        3px 3px 5px rgba(0, 0, 0, 0.9);
+      letter-spacing: 0.2px;
+    }
+    #caption.is-visible { opacity: 1; }
+
+    #caption .artist {
+      font-weight: 900;
+      font-size: clamp(22px, 3.4vw, 52px);
+      text-transform: uppercase;
+    }
+    #caption .song {
+      font-weight: 800;
+      font-size: clamp(18px, 2.6vw, 40px);
+      margin-top: 0.1em;
+    }
+    #caption .album {
+      font-weight: 700;
+      font-size: clamp(14px, 1.7vw, 26px);
+      font-style: italic;
+      opacity: 0.95;
+      margin-top: 0.15em;
+    }
+
+    @media (prefers-reduced-motion: reduce) {
+      .slide.is-active .cover,
+      .slide.is-active .backdrop { animation: none; }
+    }
+
+    #message {
+      position: fixed;
+      inset: 0;
+      display: none;
+      align-items: center;
+      justify-content: center;
+      color: #888;
+      font: 16px/1.5 system-ui, -apple-system, Segoe UI, Roboto, sans-serif;
+      text-align: center;
+      padding: 2rem;
+    }
+  </style>
+</head>
+<body>
+  <div id="stage">
+    <div class="slide" id="slideA">
+      <div class="backdrop"></div>
+      <img class="cover" alt="Album cover art" />
+    </div>
+    <div class="slide" id="slideB">
+      <div class="backdrop"></div>
+      <img class="cover" alt="Album cover art" />
+    </div>
+  </div>
+
+  <div id="caption">
+    <div class="artist"></div>
+    <div class="song"></div>
+    <div class="album"></div>
+  </div>
+
+  <div id="message"></div>
+
+  <script>
+  (function () {
+    "use strict";
+
+    // ---- Config (keep CYCLE_MS in sync with --cycle-ms in CSS) ----------
+    var CYCLE_MS = 60000;                 // time each image is displayed
+    var CAPTION_HOLD_MS = 10000;          // caption stays up 10s, then fades
+    var REFRESH_MS = 8 * 60 * 60 * 1000;  // full page self-refresh every 8 hours
+    var POLL_MS = 5 * 60 * 1000;          // re-check manifest for new art every 5 min
+    var MANIFEST_URL = "manifest.json";
+
+    var slides = [document.getElementById("slideA"), document.getElementById("slideB")];
+    var captionEl = document.getElementById("caption");
+    var active = 0;          // index into slides[] currently shown
+    var images = [];         // array of image objects from the manifest
+    var starters = [];       // array of starter path strings
+    var queue = [];          // shuffled working queue of image objects we pop from
+    var lastShownPath = null;// path of the most recent image (avoid repeats)
+    var captionTimer = null;
+
+    function showMessage(text) {
+      var el = document.getElementById("message");
+      el.textContent = text;
+      el.style.display = "flex";
+    }
+
+    // Fisher–Yates shuffle.
+    function shuffle(arr) {
+      var a = arr.slice();
+      for (var i = a.length - 1; i > 0; i--) {
+        var j = Math.floor(Math.random() * (i + 1));
+        var t = a[i]; a[i] = a[j]; a[j] = t;
+      }
+      return a;
+    }
+
+    // Pull the next image object, reshuffling when the queue empties without
+    // letting the same image repeat back-to-back across a reshuffle.
+    function nextImage() {
+      if (queue.length === 0) {
+        queue = shuffle(images);
+        if (queue.length > 1 && queue[0].path === lastShownPath) {
+          queue.push(queue.shift());
+        }
+      }
+      return queue.shift();
+    }
+
+    // Preload an image, resolving even on error so one bad file can't stall us.
+    function preload(src) {
+      return new Promise(function (resolve) {
+        var img = new Image();
+        img.onload = function () { resolve(true); };
+        img.onerror = function () { resolve(false); };
+        img.src = src;
+      });
+    }
+
+    // MTV-style lower third: show artist / song / album, then fade after a hold.
+    function showCaption(meta) {
+      if (captionTimer) { clearTimeout(captionTimer); captionTimer = null; }
+
+      var artist = (meta && meta.artist) || "";
+      var song = (meta && meta.song) || "";
+      var album = (meta && meta.album) || "";
+
+      captionEl.querySelector(".artist").textContent = artist;
+      captionEl.querySelector(".song").textContent = song;
+      captionEl.querySelector(".album").textContent = album;
+
+      // Nothing to show (e.g. a bare starter image) — keep it hidden.
+      if (!artist && !song && !album) {
+        captionEl.classList.remove("is-visible");
+        return;
+      }
+
+      captionEl.classList.add("is-visible");
+      captionTimer = setTimeout(function () {
+        captionEl.classList.remove("is-visible");
+      }, CAPTION_HOLD_MS);
+    }
+
+    // Swap the hidden slide in with the given image path, then crossfade.
+    // `meta` (optional) drives the caption.
+    function transitionTo(src, meta) {
+      var incoming = slides[1 - active];
+      var img = incoming.querySelector(".cover");
+      var backdrop = incoming.querySelector(".backdrop");
+
+      img.src = src;
+      backdrop.style.backgroundImage = "url('" + src.replace(/'/g, "\\'") + "')";
+
+      slides[active].classList.remove("is-active");
+      incoming.classList.add("is-active");
+      active = 1 - active;
+      lastShownPath = src;
+
+      showCaption(meta);
+    }
+
+    async function tick() {
+      var item = nextImage();
+      await preload(item.path);    // wait so we never fade to a blank frame
+      transitionTo(item.path, item);
+      setTimeout(tick, CYCLE_MS);
+    }
+
+    // Re-fetch the manifest periodically so new art appears without a reload.
+    function pollManifest() {
+      fetch(MANIFEST_URL, { cache: "no-store" })
+        .then(function (r) { return r.ok ? r.json() : null; })
+        .then(function (m) {
+          if (!m || !Array.isArray(m.images)) return;
+          // Only adopt the new list if the set of paths actually changed,
+          // so we don't disturb the in-flight shuffle queue needlessly.
+          var oldPaths = images.map(function (i) { return i.path; }).sort().join("|");
+          var newPaths = m.images.map(function (i) { return i.path; }).sort().join("|");
+          if (newPaths !== oldPaths) {
+            images = m.images.slice();
+            queue = [];  // rebuild on next tick; new images fold into rotation
+          }
+        })
+        .catch(function () { /* transient network error — try again next poll */ });
+    }
+
+    async function start(manifest) {
+      starters = manifest.starters || [];
+      images = (manifest.images || []).slice();
+
+      if (images.length === 0 && starters.length === 0) {
+        showMessage("No images found in manifest.json.");
+        return;
+      }
+
+      // 1) Show a random starter image immediately (no caption).
+      if (starters.length) {
+        var starter = starters[Math.floor(Math.random() * starters.length)];
+        await preload(starter);
+        transitionTo(starter, null);
+      } else {
+        // No starters defined — jump straight into the gallery.
+        var first = nextImage();
+        await preload(first.path);
+        transitionTo(first.path, first);
+      }
+
+      if (images.length === 0) {
+        // Starters only; nothing to rotate to. Leave the starter up.
+        return;
+      }
+
+      // 2) After one cycle, begin rotating through the album covers.
+      setTimeout(tick, CYCLE_MS);
+
+      // 3) Poll the manifest for new art every 5 minutes.
+      setInterval(pollManifest, POLL_MS);
+
+      // 4) Self-refresh the whole page every 8 hours.
+      setTimeout(function () { location.reload(); }, REFRESH_MS);
+    }
+
+    function init() {
+      fetch(MANIFEST_URL, { cache: "no-store" })
+        .then(function (r) {
+          if (!r.ok) throw new Error("HTTP " + r.status);
+          return r.json();
+        })
+        .then(start)
+        .catch(function (err) {
+          showMessage(
+            "Could not load manifest.json (" + err.message + "). " +
+            "Serve this folder over http (e.g. a static web server) rather than opening the file directly."
+          );
+        });
+    }
+
+    document.addEventListener("DOMContentLoaded", init);
+  })();
+  </script>
+</body>
+</html>

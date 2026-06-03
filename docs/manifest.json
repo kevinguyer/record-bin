@@ -1,0 +1,29 @@
+﻿{
+    "version":  1,
+    "gallery_name":  "Album Gallery",
+    "updated_at":  "2026-06-03T19:17:35Z",
+    "starters":  [
+                     "images/starter-images/1.png",
+                     "images/starter-images/2.png"
+                 ],
+    "images":  [
+                   {
+                       "id":  "blueoystercult-dancin-in-the-ruins",
+                       "filename":  "BlueOysterCult_DancinInTheRuins.png",
+                       "path":  "images/album-art/BlueOysterCult_DancinInTheRuins.png",
+                       "artist":  "Blue Öyster Cult",
+                       "song":  "Dancin\u0027 in the Ruins",
+                       "album":  "Club Ninja",
+                       "generated_at":  "2026-06-03T00:00:00Z"
+                   },
+                   {
+                       "id":  "dualipa-these-walls",
+                       "filename":  "DuaLipa_TheseWalls.png",
+                       "path":  "images/album-art/DuaLipa_TheseWalls.png",
+                       "artist":  "Dua Lipa",
+                       "song":  "These Walls",
+                       "album":  "Radical Optimism",
+                       "generated_at":  "2026-06-03T00:00:00Z"
+                   }
+               ]
+}
