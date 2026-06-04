@@ -24,6 +24,60 @@
                        "song":  "These Walls",
                        "album":  "Radical Optimism",
                        "generated_at":  "2026-06-03T00:00:00Z"
+                   },
+                   {
+                       "id":  "ghost-spillways",
+                       "filename":  "Ghost_Spillways.png",
+                       "path":  "images/album-art/Ghost_Spillways.png",
+                       "artist":  "Ghost",
+                       "song":  "Spillways",
+                       "album":  "Imperia",
+                       "generated_at":  "2026-06-04T00:00:00Z"
+                   },
+                   {
+                       "id":  "superdrag-lighting-the-way",
+                       "filename":  "Superdrag_LightingTheWay.png",
+                       "path":  "images/album-art/Superdrag_LightingTheWay.png",
+                       "artist":  "Superdrag",
+                       "song":  "Lighting the Way",
+                       "album":  "In the valley of Dying Stars",
+                       "generated_at":  "2026-06-04T00:00:00Z"
+                   },
+                   {
+                       "id":  "donnas-fall-behind-me",
+                       "filename":  "Donnas_FallBehindMe.png",
+                       "path":  "images/album-art/Donnas_FallBehindMe.png",
+                       "artist":  "The Donnas",
+                       "song":  "Fall Behind Me",
+                       "album":  "Gold Medal",
+                       "generated_at":  "2026-06-04T00:00:00Z"
+                   },
+                   {
+                       "id":  "hoodoo-gurus-out-that-door",
+                       "filename":  "HoodooGurus_OutThatDoor.png",
+                       "path":  "images/album-art/HoodooGurus_OutThatDoor.png",
+                       "artist":  "Hoodoo Gurus",
+                       "song":  "Out That Door",
+                       "album":  "Blow Your Cool",
+                       "generated_at":  "2026-06-04T00:00:00Z"
+                   },
+                   {
+                       "id":  "river-city-high-a-better-day",
+                       "filename":  "RiverCityHigh_ABetterDay.png",
+                       "path":  "images/album-art/RiverCityHigh_ABetterDay.png",
+                       "artist":  "River City High",
+                       "song":  "A Better Day",
+                       "album":  "Not Enough Saturday Nights",
+                       "generated_at":  "2026-06-04T00:00:00Z"
+                   },
+                   {
+                       "id":  "toto-africa",
+                       "filename":  "Toto_Africa.png",
+                       "path":  "images/album-art/Toto_Africa.png",
+                       "artist":  "Toto",
+                       "song":  "Africa",
+                       "album":  "Toto IV",
+                       "generated_at":  "2026-06-04T00:00:00Z"
                    }
                ]
 }
