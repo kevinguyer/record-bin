@@ -83,7 +83,7 @@
                        "id":  "softplay-punks-dead",
                        "filename":  "Softplay_Punks_Dead.png",
                        "path":  "images/album-art/Softplay_Punks_Dead.png",
-                       "artist":  "Softplay",
+                       "artist": "Softplay",
                        "song":  "Punk's Dead",
                        "album":  "Heavy Jelly",
                        "generated_at":  "2026-06-05T00:00:00Z"
@@ -92,7 +92,7 @@
                        "id":  "against-me-i-was-a-teenage-anarchist",
                        "filename":  "Against_Me_I_Was_A_Teenage_Anarchist.png",
                        "path":  "images/album-art/Against_Me_I_Was_A_Teenage_Anarchist.png",
-                       "artist":  "Against Me!",
+                       "artist": "Against Me!",
                        "song":  "I Was a Teenage Anarchist",
                        "album":  "White Crosses",
                        "generated_at":  "2026-06-05T00:00:00Z"
@@ -101,7 +101,7 @@
                        "id":  "reminders-international-dial-tones",
                        "filename":  "Reminders_International_Dial_Tones.png",
                        "path":  "images/album-art/Reminders_International_Dial_Tones.png",
-                       "artist":  Reminders",
+                       "artist": "Reminders",
                        "song":  "International Dial Tones",
                        "album":  "Single - 2023",
                        "generated_at":  "2026-06-05T00:00:00Z"
@@ -110,7 +110,7 @@
                        "id":  "descendents-nothing-with-you",
                        "filename":  "Descendents_Nothing_with_You.png",
                        "path":  "images/album-art/Descendents_Nothing_with_You.png",
-                       "artist":  Descendents",
+                       "artist": "Descendents",
                        "song":  "Nothing with You",
                        "album":  "Cool To Be You",
                        "generated_at":  "2026-06-05T00:00:00Z"
@@ -119,7 +119,7 @@
                        "id":  "agent-orange-everything-turns-grey",
                        "filename":  "Agent_Orange_Everything_Turns_Grey.png",
                        "path":  "images/album-art/Agent_Orange_Everything_Turns_Grey.png",
-                       "artist":  Agent Orange",
+                       "artist": "Agent Orange",
                        "song":  "Everything Turns Grey",
                        "album":  "Living in Darkness",
                        "generated_at":  "2026-06-05T00:00:00Z"
@@ -128,7 +128,7 @@
                        "id":  "ramones-poison-heart",
                        "filename":  "Ramones_Poison_Heart.png",
                        "path":  "images/album-art/Ramones_Poison_Heart.png",
-                       "artist":  Ramones",
+                       "artist": "Ramones",
                        "song":  "Poison Heart",
                        "album":  "Mondo Bizarro",
                        "generated_at":  "2026-06-05T00:00:00Z"
@@ -137,7 +137,7 @@
                        "id":  "chats-smoko",
                        "filename":  "Chats_Smoko.png",
                        "path":  "images/album-art/Chats_Smoko.png",
-                       "artist":  The Chats",
+                       "artist": "The Chats",
                        "song":  "Smoko",
                        "album":  "Get This in Ya!!",
                        "generated_at":  "2026-06-05T00:00:00Z"
