@@ -141,6 +141,87 @@
                        "song":  "Smoko",
                        "album":  "Get This in Ya!!",
                        "generated_at":  "2026-06-05T00:00:00Z"
+                   },
+                   {
+                       "id":  "too-much-joy-crush-story",
+                       "filename":  "Too_Much_Joy_Crush_Story.png",
+                       "path":  "images/album-art/Too_Much_Joy_Crush_Story.png",
+                       "artist": "Too Much Joy",
+                       "song":  "Crush Story",
+                       "album":  "Cereal Killers",
+                       "generated_at":  "2026-06-10T00:00:00Z"
+                   },
+                   {
+                       "id":  "i-believe-rem",
+                       "filename":  "I_Believe_REM.png",
+                       "path":  "images/album-art/I_Believe_REM.png",
+                       "artist": "R.E.M.",
+                       "song":  "I Believe",
+                       "album":  "Life's Rich Pageant",
+                       "generated_at":  "2026-06-10T00:00:00Z"
+                   },
+                   {
+                       "id":  "cavedogs-bed-of-nails",
+                       "filename":  "Cavedogs_Bed_Of_Nails.png",
+                       "path":  "images/album-art/Cavedogs_Bed_Of_Nails.png",
+                       "artist": "The Cavedogs",
+                       "song":  "Bed of Nails",
+                       "album":  "Joyrides for Shut-Ins",
+                       "generated_at":  "2026-06-10T00:00:00Z"
+                   },
+                   {
+                       "id":  "foo-fighters-everlong",
+                       "filename":  "Foo_Fighters_Everlong.png",
+                       "path":  "images/album-art/Foo_Fighters_Everlong.png",
+                       "artist": "Foo Fighters",
+                       "song":  "Everlong",
+                       "album":  "The Colour and the Shape",
+                       "generated_at":  "2026-06-10T00:00:00Z"
+                   },
+                   {
+                       "id":  "sugar-hoover-dam",
+                       "filename":  "Sugar_Hoover_Dam.png",
+                       "path":  "images/album-art/Sugar_Hoover_Dam.png",
+                       "artist": "Sugar",
+                       "song":  "Hoover Dam",
+                       "album":  "Copper Blue",
+                       "generated_at":  "2026-06-10T00:00:00Z"
+                   },
+                   {
+                       "id":  "liz-phair-supernova",
+                       "filename":  "Liz_Phair_Supernova.png",
+                       "path":  "images/album-art/Liz_Phair_Supernova.png",
+                       "artist": "Liz Phair",
+                       "song":  "Supernova",
+                       "album":  "Whip-Smart",
+                       "generated_at":  "2026-06-10T00:00:00Z"
+                   },
+                   {
+                       "id":  "veruca-salt-seether",
+                       "filename":  "Veruca_Salt_Seether.png",
+                       "path":  "images/album-art/Veruca_Salt_Seether.png",
+                       "artist": "Veruca Salt",
+                       "song":  "Seether",
+                       "album":  "American Thighs",
+                       "generated_at":  "2026-06-10T00:00:00Z"
+                   },
+                   {
+                       "id":  "blink-182-all-the-small-things",
+                       "filename":  "Blink-182_All_The_Small_Things.png",
+                       "path":  "images/album-art/Blink-182_All_The_Small_Things.png",
+                       "artist": "Blink-182",
+                       "song":  "All the Small Things",
+                       "album":  "Enema of the State",
+                       "generated_at":  "2026-06-10T00:00:00Z"
+                   },
+                   {
+                       "id":  "material-issue-kim-the-waitress",
+                       "filename":  "Material_Issue_Kim_The_Waitress.png",
+                       "path":  "images/album-art/Material_Issue_Kim_The_Waitress.png",
+                       "artist": "Material Issue",
+                       "song":  "Kim the Waitress",
+                       "album":  "Freak City Soundtrack",
+                       "generated_at":  "2026-06-10T00:00:00Z"
                    }
                ]
 }
