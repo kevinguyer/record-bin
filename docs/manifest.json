@@ -222,6 +222,78 @@
                        "song":  "Kim the Waitress",
                        "album":  "Freak City Soundtrack",
                        "generated_at":  "2026-06-10T00:00:00Z"
+                   },
+                   {
+                        "id": "matthew-sweet-get-older",
+                        "filename": "MatthewSweet_GetOlder.png",
+                        "path": "images/album-art/MatthewSweet_GetOlder.png",
+                        "artist": "Matthew Sweet",
+                        "song": "Get Older",
+                        "album": "100% Fun",
+                        "generated_at": "2026-06-11T00:00:00Z"
+                   },
+                   {
+                      "id": "butch-walker-gridlock",
+                      "filename": "ButchWalker_Gridlock.png",
+                      "path": "images/album-art/ButchWalker_Gridlock.png",
+                      "artist": "Butch Walker",
+                      "song": "Gridlock",
+                      "album": "American Love Story",
+                      "generated_at": "2026-06-11T00:00:00Z"
+                   },
+                   {
+                      "id": "fountains-of-wayne-radiation-vibe",
+                      "filename": "FountainsOfWayne_RadiationVibe.png",
+                      "path": "images/album-art/FountainsOfWayne_RadiationVibe.png",
+                      "artist": "Fountains of Wayne",
+                      "song": "Radiation Vibe",
+                      "album": "Fountains of Wayne",
+                      "generated_at": "2026-06-11T00:00:00Z"
+                   },
+                   {
+                      "id": "the-cult-sun-king",
+                      "filename": "TheCult_SunKing.png",
+                      "path": "images/album-art/TheCult_SunKing.png",
+                      "artist": "The Cult",
+                      "song": "Sun King",
+                      "album": "Sonic Temple",
+                      "generated_at": "2026-06-11T00:00:00Z"
+                   },
+                   {
+                      "id": "the-fixx-driven-out",
+                      "filename": "TheFixx_DrivenOut.png",
+                      "path": "images/album-art/TheFixx_DrivenOut.png",
+                      "artist": "The Fixx",
+                      "song": "Driven Out",
+                      "album": "Calm Animals",
+                      "generated_at": "2026-06-11T00:00:00Z"
+                   },
+                   {
+                      "id": "the-plimsouls-ill-get-lucky",
+                      "filename": "ThePlimsouls_IllGetLucky.png",
+                      "path": "images/album-art/ThePlimsouls_IllGetLucky.png",
+                      "artist": "The Plimsouls",
+                      "song": "I'll Get Lucky",
+                      "album": "Everywhere at Once",
+                      "generated_at": "2026-06-11T00:00:00Z"
+                   },
+                   {
+                      "id": "better-than-ezra-a-southern-thing",
+                      "filename": "BetterThanEzra_ASouthernThing.png",
+                      "path": "images/album-art/BetterThanEzra_ASouthernThing.png",
+                      "artist": "Better Than Ezra",
+                      "song": "A Southern Thing",
+                      "album": "Closer",
+                      "generated_at": "2026-06-11T00:00:00Z"
+                   },
+                   {
+                      "id": "the-zutons-creeping-on-the-dancefloor",
+                      "filename": "TheZutons_CreepingOnTheDancefloor.png",
+                      "path": "images/album-art/TheZutons_CreepingOnTheDancefloor.png",
+                      "artist": "The Zutons",
+                      "song": "Creeping on the Dancefloor",
+                      "album": "The Big Decider",
+                      "generated_at": "2026-06-11T00:00:00Z"
                    }
                ]
 }
