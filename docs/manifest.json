@@ -294,6 +294,123 @@
                       "song": "Creeping on the Dancefloor",
                       "album": "The Big Decider",
                       "generated_at": "2026-06-11T00:00:00Z"
-                   }
+                   },
+                    {
+                      "id": "the-smithereens-strangers-when-we-meet",
+                      "filename": "TheSmithereens_StrangersWhenWeMeet.png",
+                      "path": "images/album-art/TheSmithereens_StrangersWhenWeMeet.png",
+                      "artist": "The Smithereens",
+                      "song": "Strangers When we Meet",
+                      "album": "Especially for You",
+                      "generated_at": "2026-06-12T00:00:00Z"
+                    },
+                    {
+                      "id": "heart-dog-and-butterfly",
+                      "filename": "Heart_DogAndButterfly.png",
+                      "path": "images/album-art/Heart_DogAndButterfly.png",
+                      "artist": "Heart",
+                      "song": "Dog and Butterfly",
+                      "album": "Dog & Butterfly",
+                      "generated_at": "2026-06-12T00:00:00Z"
+                    },
+                    {
+                      "id": "social-distortion-story-of-my-life",
+                      "filename": "SocialDistortion_StoryOfMyLife.png",
+                      "path": "images/album-art/SocialDistortion_StoryOfMyLife.png",
+                      "artist": "Social Distortion",
+                      "song": "Story of My Life",
+                      "album": "Social Distortion",
+                      "generated_at": "2026-06-12T00:00:00Z"
+                    },
+                    {
+                      "id": "volbeat-lola-montez",
+                      "filename": "Volbeat_LolaMontez.png",
+                      "path": "images/album-art/Volbeat_LolaMontez.png",
+                      "artist": "Volbeat",
+                      "song": "Lola Montez",
+                      "album": "Outlaw Gentlemen & Shady Ladies",
+                      "generated_at": "2026-06-12T00:00:00Z"
+                    },
+                    {
+                      "id": "gorillaz-clint-eastwood",
+                      "filename": "Gorillaz_ClintEastwood.png",
+                      "path": "images/album-art/Gorillaz_ClintEastwood.png",
+                      "artist": "Gorillaz",
+                      "song": "Clint Eastwood",
+                      "album": "Gorillaz",
+                      "generated_at": "2026-06-12T00:00:00Z"
+                    },
+                    {
+                      "id": "the-shins-phantom-limb",
+                      "filename": "TheShins_PhantomLimb.png",
+                      "path": "images/album-art/TheShins_PhantomLimb.png",
+                      "artist": "The Shins",
+                      "song": "Phantom Limb",
+                      "album": "Wincing the Night Away",
+                      "generated_at": "2026-06-12T00:00:00Z"
+                    },
+                    {
+                      "id": "sum-41-fat-lip",
+                      "filename": "Sum41_FatLip.png",
+                      "path": "images/album-art/Sum41_FatLip.png",
+                      "artist": "Sum 41",
+                      "song": "Fat Lip",
+                      "album": "All Killer No Filler",
+                      "generated_at": "2026-06-12T00:00:00Z"
+                    },
+                    {
+                      "id": "echo-jet-california-blur",
+                      "filename": "EchoJet_CaliforniaBlur.png",
+                      "path": "images/album-art/EchoJet_CaliforniaBlur.png",
+                      "artist": "Echo Jet",
+                      "song": "California Blur",
+                      "album": "Echo Jet",
+                      "generated_at": "2026-06-12T00:00:00Z"
+                    },
+                    {
+                      "id": "let-go-120-b-p-m",
+                      "filename": "LetGo_120BPM.png",
+                      "path": "images/album-art/LetGo_120BPM.png",
+                      "artist": "Let Go",
+                      "song": "120 B.P.M.",
+                      "album": "Let Go",
+                      "generated_at": "2026-06-12T00:00:00Z"
+                    },
+                    {
+                      "id": "roger-clyne-the-peacemakers-your-name-on-a-grain-of-rice",
+                      "filename": "RogerClyneThePeacemakers_YourNameOnAGrainOfRice.png",
+                      "path": "images/album-art/RogerClyneThePeacemakers_YourNameOnAGrainOfRice.png",
+                      "artist": "Roger Clyne & the Peacemakers",
+                      "song": "Your Name on a Grain of Rice",
+                      "album": "¡Americano!",
+                      "generated_at": "2026-06-12T00:00:00Z"
+                    },
+                    {
+                      "id": "boss-martians-never-let-it-happen-again",
+                      "filename": "BossMartians_NeverLetItHappenAgain.png",
+                      "path": "images/album-art/BossMartians_NeverLetItHappenAgain.png",
+                      "artist": "Boss Martians",
+                      "song": "Never Let it Happen Again",
+                      "album": "The Set-Up",
+                      "generated_at": "2026-06-12T00:00:00Z"
+                    },
+                    {
+                      "id": "tegan-and-sara-walking-with-a-ghost",
+                      "filename": "TeganAndSara_WalkingWithAGhost.png",
+                      "path": "images/album-art/TeganAndSara_WalkingWithAGhost.png",
+                      "artist": "Tegan and Sara",
+                      "song": "Walking With a Ghost",
+                      "album": "So Jealous",
+                      "generated_at": "2026-06-12T00:00:00Z"
+                    },
+                    {
+                      "id": "blue-oyster-cult-veteran-of-the-psychic-wars",
+                      "filename": "BlueOysterCult_VeteranOfThePsychicWars.png",
+                      "path": "images/album-art/BlueOysterCult_VeteranOfThePsychicWars.png",
+                      "artist": "Blue Oyster Cult",
+                      "song": "Veteran of the Psychic Wars",
+                      "album": "Fire of Unknown Origin",
+                      "generated_at": "2026-06-12T00:00:00Z"
+                    }
                ]
 }
