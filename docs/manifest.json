@@ -708,6 +708,312 @@
                       "song": "Edie (Ciao Baby)",
                       "album": "Sonic Temple",
                       "generated_at": "2026-06-14T00:00:00Z"
-                    }
+                    },
+                  {
+                    "id": "the-marvelous-3-my-olde-school-metal-heart",
+                    "filename": "TheMarvelous3_MyOldeSchoolMetalHeart.png",
+                    "path": "images/album-art/TheMarvelous3_MyOldeSchoolMetalHeart.png",
+                    "artist": "The Marvelous 3",
+                    "song": "My Olde School Metal Heart",
+                    "album": "ReadySexGo",
+                    "generated_at": "2026-06-14T00:00:00Z"
+                  },
+                  {
+                    "id": "jimi-hendrix-all-along-the-watchtower",
+                    "filename": "JimiHendrix_AllAlongTheWatchtower.png",
+                    "path": "images/album-art/JimiHendrix_AllAlongTheWatchtower.png",
+                    "artist": "Jimi Hendrix",
+                    "song": "All Along the Watchtower",
+                    "album": "Electric Ladyland",
+                    "generated_at": "2026-06-14T00:00:00Z"
+                  },
+                  {
+                    "id": "the-alan-parsons-project-eye-in-the-sky",
+                    "filename": "TheAlanParsonsProject_EyeInTheSky.png",
+                    "path": "images/album-art/TheAlanParsonsProject_EyeInTheSky.png",
+                    "artist": "The Alan Parsons Project",
+                    "song": "Eye in the Sky",
+                    "album": "Eye in the Sky",
+                    "generated_at": "2026-06-14T00:00:00Z"
+                  },
+                  {
+                    "id": "the-night-flight-orchestra-paralyzed",
+                    "filename": "TheNightFlightOrchestra_Paralyzed.png",
+                    "path": "images/album-art/TheNightFlightOrchestra_Paralyzed.png",
+                    "artist": "The Night Flight Orchestra",
+                    "song": "Paralyzed",
+                    "album": "Give Us the Moon",
+                    "generated_at": "2026-06-14T00:00:00Z"
+                  },
+                  {
+                    "id": "john-oszajca-long-goodbye",
+                    "filename": "JohnOszajca_LongGoodbye.png",
+                    "path": "images/album-art/JohnOszajca_LongGoodbye.png",
+                    "artist": "John Oszajca",
+                    "song": "Long Goodbye",
+                    "album": "From There to Here",
+                    "generated_at": "2026-06-14T00:00:00Z"
+                  },
+                  {
+                    "id": "head-automatica-graduation-day",
+                    "filename": "HeadAutomatica_GraduationDay.png",
+                    "path": "images/album-art/HeadAutomatica_GraduationDay.png",
+                    "artist": "Head Automatica",
+                    "song": "Graduation Day",
+                    "album": "Decadence",
+                    "generated_at": "2026-06-14T00:00:00Z"
+                  },
+                  {
+                    "id": "jay-ferguson-thunder-island",
+                    "filename": "JayFerguson_ThunderIsland.png",
+                    "path": "images/album-art/JayFerguson_ThunderIsland.png",
+                    "artist": "Jay Ferguson",
+                    "song": "Thunder Island",
+                    "album": "Thunder Island",
+                    "generated_at": "2026-06-14T00:00:00Z"
+                  },
+                  {
+                    "id": "paul-davis-cool-night",
+                    "filename": "PaulDavis_CoolNight.png",
+                    "path": "images/album-art/PaulDavis_CoolNight.png",
+                    "artist": "Paul Davis",
+                    "song": "Cool Night",
+                    "album": "Cool Night",
+                    "generated_at": "2026-06-14T00:00:00Z"
+                  },
+                  {
+                    "id": "inxs-original-sin",
+                    "filename": "INXS_OriginalSin.png",
+                    "path": "images/album-art/INXS_OriginalSin.png",
+                    "artist": "INXS",
+                    "song": "Original Sin",
+                    "album": "The Swing",
+                    "generated_at": "2026-06-14T00:00:00Z"
+                  },
+                  {
+                    "id": "inxs-devil-inside",
+                    "filename": "INXS_DevilInside.png",
+                    "path": "images/album-art/INXS_DevilInside.png",
+                    "artist": "INXS",
+                    "song": "Devil Inside",
+                    "album": "Kick",
+                    "generated_at": "2026-06-14T00:00:00Z"
+                  },
+                  {
+                    "id": "echo-and-the-bunnymen-the-killing-moon",
+                    "filename": "EchoAndTheBunnymen_TheKillingMoon.png",
+                    "path": "images/album-art/EchoAndTheBunnymen_TheKillingMoon.png",
+                    "artist": "Echo & The Bunnymen",
+                    "song": "The Killing Moon",
+                    "album": "Ocean Rain",
+                    "generated_at": "2026-06-14T00:00:00Z"
+                  },
+                  {
+                    "id": "siouxsie-and-the-banshees-spellbound",
+                    "filename": "SiouxsieAndTheBanshees_Spellbound.png",
+                    "path": "images/album-art/SiouxsieAndTheBanshees_Spellbound.png",
+                    "artist": "Siouxsie and the Banshees",
+                    "song": "Spellbound",
+                    "album": "Juju",
+                    "generated_at": "2026-06-14T00:00:00Z"
+                  },
+                  {
+                    "id": "cobra-starship-snakes-on-a-plane",
+                    "filename": "CobraStarship_SnakesOnAPlane.png",
+                    "path": "images/album-art/CobraStarship_SnakesOnAPlane.png",
+                    "artist": "Cobra Starship",
+                    "song": "Snakes on a Plane",
+                    "album": "Snakes on a Plane: The Album",
+                    "generated_at": "2026-06-14T00:00:00Z"
+                  },
+                  {
+                    "id": "propagandhi-anti-manifesto",
+                    "filename": "Propagandhi_AntiManifesto.png",
+                    "path": "images/album-art/Propagandhi_AntiManifesto.png",
+                    "artist": "Propagandhi",
+                    "song": "Anti-Manifesto",
+                    "album": "How to Clean Everything",
+                    "generated_at": "2026-06-14T00:00:00Z"
+                  },
+                  {
+                    "id": "missing-persons-surrender-your-heart",
+                    "filename": "MissingPersons_SurrenderYourHeart.png",
+                    "path": "images/album-art/MissingPersons_SurrenderYourHeart.png",
+                    "artist": "Missing Persons",
+                    "song": "Surrender Your Heart",
+                    "album": "Rhyme & Reason",
+                    "generated_at": "2026-06-14T00:00:00Z"
+                  },
+                  {
+                    "id": "the-pursuit-of-happiness-no-safe-place",
+                    "filename": "ThePursuitOfHappiness_NoSafePlace.png",
+                    "path": "images/album-art/ThePursuitOfHappiness_NoSafePlace.png",
+                    "artist": "The Pursuit of Happiness",
+                    "song": "No Safe Place",
+                    "album": "One Sided Story",
+                    "generated_at": "2026-06-14T00:00:00Z"
+                  },
+                  {
+                    "id": "ramones-sheena-is-a-punk-rocker",
+                    "filename": "Ramones_SheenaIsaPunkRocker.png",
+                    "path": "images/album-art/Ramones_SheenaIsaPunkRocker.png",
+                    "artist": "Ramones",
+                    "song": "Sheena Is a Punk Rocker",
+                    "album": "Rocket to Russia",
+                    "generated_at": "2026-06-14T00:00:00Z"
+                  },
+                  {
+                    "id": "adolescents-amoeba",
+                    "filename": "Adolescents_Amoeba.png",
+                    "path": "images/album-art/Adolescents_Amoeba.png",
+                    "artist": "Adolescents",
+                    "song": "Amoeba",
+                    "album": "Adolescents",
+                    "generated_at": "2026-06-14T00:00:00Z"
+                  },
+                  {
+                    "id": "black-flag-tv-party",
+                    "filename": "BlackFlag_TVParty.png",
+                    "path": "images/album-art/BlackFlag_TVParty.png",
+                    "artist": "Black Flag",
+                    "song": "TV Party",
+                    "album": "Damaged",
+                    "generated_at": "2026-06-14T00:00:00Z"
+                  },
+                  {
+                    "id": "devo-uncontrollable-urge",
+                    "filename": "Devo_UncontrollableUrge.png",
+                    "path": "images/album-art/Devo_UncontrollableUrge.png",
+                    "artist": "Devo",
+                    "song": "Uncontrollable Urge",
+                    "album": "Q: Are We Not Men? A: We Are Devo!",
+                    "generated_at": "2026-06-14T00:00:00Z"
+                  },
+                  {
+                    "id": "black-sabbath-heaven-and-hell",
+                    "filename": "BlackSabbath_HeavenAndHell.png",
+                    "path": "images/album-art/BlackSabbath_HeavenAndHell.png",
+                    "artist": "Black Sabbath",
+                    "song": "Heaven and Hell",
+                    "album": "Heaven and Hell",
+                    "generated_at": "2026-06-14T00:00:00Z"
+                  },
+                  {
+                    "id": "minor-threat-minor-threat",
+                    "filename": "MinorThreat_MinorThreat.png",
+                    "path": "images/album-art/MinorThreat_MinorThreat.png",
+                    "artist": "Minor Threat",
+                    "song": "Minor Threat",
+                    "album": "Minor Threat",
+                    "generated_at": "2026-06-14T00:00:00Z"
+                  },
+                  {
+                    "id": "descendents-suburban-home",
+                    "filename": "Descendents_SuburbanHome.png",
+                    "path": "images/album-art/Descendents_SuburbanHome.png",
+                    "artist": "Descendents",
+                    "song": "Suburban Home",
+                    "album": "Milo Goes to College",
+                    "generated_at": "2026-06-14T00:00:00Z"
+                  },
+                  {
+                    "id": "shonen-knife-top-of-the-world",
+                    "filename": "ShonenKnife_TopOfTheWorld.png",
+                    "path": "images/album-art/ShonenKnife_TopOfTheWorld.png",
+                    "artist": "Shonen Knife",
+                    "song": "Top of the World",
+                    "album": "If I Were a Carpenter",
+                    "generated_at": "2026-06-14T00:00:00Z"
+                  },
+                  {
+                    "id": "juliana-hatfield-everybody-loves-me-but-you",
+                    "filename": "JulianaHatfield_EverybodyLovesMeButYou.png",
+                    "path": "images/album-art/JulianaHatfield_EverybodyLovesMeButYou.png",
+                    "artist": "Juliana Hatfield",
+                    "song": "Everybody Loves Me But You",
+                    "album": "Hey Babe",
+                    "generated_at": "2026-06-14T00:00:00Z"
+                  },
+                  {
+                    "id": "black-paisley-without-us",
+                    "filename": "BlackPaisley_WithoutUs.png",
+                    "path": "images/album-art/BlackPaisley_WithoutUs.png",
+                    "artist": "Black Paisley",
+                    "song": "Without Us",
+                    "album": "Rambler",
+                    "generated_at": "2026-06-14T00:00:00Z"
+                  },
+                  {
+                    "id": "the-donnas-too-bad-about-your-girl",
+                    "filename": "TheDonnas_TooBadAboutYourGirl.png",
+                    "path": "images/album-art/TheDonnas_TooBadAboutYourGirl.png",
+                    "artist": "The Donnas",
+                    "song": "Too Bad About Your Girl",
+                    "album": "Spend the Night",
+                    "generated_at": "2026-06-14T00:00:00Z"
+                  },
+                  {
+                    "id": "linda-lindas-all-in-my-head",
+                    "filename": "LindaLindas_AllInMyHead.png",
+                    "path": "images/album-art/LindaLindas_AllInMyHead.png",
+                    "artist": "Linda Lindas",
+                    "song": "All in my Head",
+                    "album": "No Obligation",
+                    "generated_at": "2026-06-14T00:00:00Z"
+                  },
+                  {
+                    "id": "dance-hall-crashers-dont-wanna-behave",
+                    "filename": "DanceHallCrashers_DontWannaBehave.png",
+                    "path": "images/album-art/DanceHallCrashers_DontWannaBehave.png",
+                    "artist": "Dance Hall Crashers",
+                    "song": "Don't Wanna Behave",
+                    "album": "Lockjaw",
+                    "generated_at": "2026-06-14T00:00:00Z"
+                  },
+                  {
+                    "id": "cheap-trick-dream-police",
+                    "filename": "CheapTrick_DreamPolice.png",
+                    "path": "images/album-art/CheapTrick_DreamPolice.png",
+                    "artist": "Cheap Trick",
+                    "song": "Dream Police",
+                    "album": "Dream Police",
+                    "generated_at": "2026-06-14T00:00:00Z"
+                  },
+                  {
+                    "id": "dua-lipa-future-nostalgia",
+                    "filename": "DuaLipa_FutureNostalgia.png",
+                    "path": "images/album-art/DuaLipa_FutureNostalgia.png",
+                    "artist": "Dua Lipa",
+                    "song": "Future Nostalgia",
+                    "album": "Future Nostalgia",
+                    "generated_at": "2026-06-14T00:00:00Z"
+                  },
+                  {
+                    "id": "dua-lipa-dont-start-now",
+                    "filename": "DuaLipa_DontStartNow.png",
+                    "path": "images/album-art/DuaLipa_DontStartNow.png",
+                    "artist": "Dua Lipa",
+                    "song": "Don't Start Now",
+                    "album": "Future Nostalgia",
+                    "generated_at": "2026-06-14T00:00:00Z"
+                  },
+                  {
+                    "id": "no-more-kings-sweep-the-leg",
+                    "filename": "NoMoreKings_SweepTheLeg.png",
+                    "path": "images/album-art/NoMoreKings_SweepTheLeg.png",
+                    "artist": "No More Kings",
+                    "song": "Sweep the Leg",
+                    "album": "No More Kings",
+                    "generated_at": "2026-06-14T00:00:00Z"
+                  },
+                  {
+                    "id": "joan-jett-and-the-blackhearts-i-hate-myself-for-loving-you",
+                    "filename": "JoanJettAndTheBlackhearts_IHateMyselfForLovingYou.png",
+                    "path": "images/album-art/JoanJettAndTheBlackhearts_IHateMyselfForLovingYou.png",
+                    "artist": "Joan Jett & the Blackhearts",
+                    "song": "I Hate Myself for Loving You",
+                    "album": "Up Your Alley",
+                    "generated_at": "2026-06-14T00:00:00Z"
+                  }
                ]
 }
