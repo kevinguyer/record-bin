@@ -411,6 +411,303 @@
                       "song": "Veteran of the Psychic Wars",
                       "album": "Fire of Unknown Origin",
                       "generated_at": "2026-06-12T00:00:00Z"
+                    },
+                    {
+                      "id": "hawaii-mud-bombers-johanna-beach",
+                      "filename": "HawaiiMudBombers_JohannaBeach.png",
+                      "path": "images/album-art/HawaiiMudBombers_JohannaBeach.png",
+                      "artist": "Hawaii Mud Bombers",
+                      "song": "Johanna Beach",
+                      "album": "Mondo Primo",
+                      "generated_at": "2026-06-14T00:00:00Z"
+                    },
+                    {
+                      "id": "the-offspring-stuff-is-messed-up",
+                      "filename": "TheOffspring_StuffIsMessedUp.png",
+                      "path": "images/album-art/TheOffspring_StuffIsMessedUp.png",
+                      "artist": "The Offspring",
+                      "song": "Stuff is Messed Up",
+                      "album": "Rise and Fall, Rage and Grace",
+                      "generated_at": "2026-06-14T00:00:00Z"
+                    },
+                    {
+                      "id": "rancid-ruby-soho",
+                      "filename": "Rancid_RubySoho.png",
+                      "path": "images/album-art/Rancid_RubySoho.png",
+                      "artist": "Rancid",
+                      "song": "Ruby Soho",
+                      "album": "...And Out Come the Wolves",
+                      "generated_at": "2026-06-14T00:00:00Z"
+                    },
+                    {
+                      "id": "four-year-strong-uncooked",
+                      "filename": "FourYearStrong_Uncooked.png",
+                      "path": "images/album-art/FourYearStrong_Uncooked.png",
+                      "artist": "Four Year Strong",
+                      "song": "uncooked",
+                      "album": "analysis paralysis",
+                      "generated_at": "2026-06-14T00:00:00Z"
+                    },
+                    {
+                      "id": "alkaline-trio-minds-like-minefields",
+                      "filename": "AlkalineTrio_MindsLikeMinefields.png",
+                      "path": "images/album-art/AlkalineTrio_MindsLikeMinefields.png",
+                      "artist": "Alkaline Trio",
+                      "song": "Minds Like Minefields",
+                      "album": "E.P.",
+                      "generated_at": "2026-06-14T00:00:00Z"
+                    },
+                    {
+                      "id": "knuckle-puck-stick-season",
+                      "filename": "KnucklePuck_StickSeason.png",
+                      "path": "images/album-art/KnucklePuck_StickSeason.png",
+                      "artist": "Knuckle Puck",
+                      "song": "Stick Season",
+                      "album": "Stick Season",
+                      "generated_at": "2026-06-14T00:00:00Z"
+                    },
+                    {
+                      "id": "the-menzingers-chance-encounters",
+                      "filename": "TheMenzingers_ChanceEncounters.png",
+                      "path": "images/album-art/TheMenzingers_ChanceEncounters.png",
+                      "artist": "The Menzingers",
+                      "song": "Chance Encounters",
+                      "album": "Some of It Was True",
+                      "generated_at": "2026-06-14T00:00:00Z"
+                    },
+                    {
+                      "id": "bad-religion-los-angeles-is-burning",
+                      "filename": "BadReligion_LosAngelesIsBurning.png",
+                      "path": "images/album-art/BadReligion_LosAngelesIsBurning.png",
+                      "artist": "Bad Religion",
+                      "song": "Los Angeles is Burning",
+                      "album": "The Empire Strikes First",
+                      "generated_at": "2026-06-14T00:00:00Z"
+                    },
+                    {
+                      "id": "the-bouncing-souls-better-days",
+                      "filename": "TheBouncingSouls_BetterDays.png",
+                      "path": "images/album-art/TheBouncingSouls_BetterDays.png",
+                      "artist": "The Bouncing Souls",
+                      "song": "Better Days",
+                      "album": "Anchors Aweigh",
+                      "generated_at": "2026-06-14T00:00:00Z"
+                    },
+                    {
+                      "id": "green-day-american-idiot",
+                      "filename": "GreenDay_AmericanIdiot.png",
+                      "path": "images/album-art/GreenDay_AmericanIdiot.png",
+                      "artist": "Green Day",
+                      "song": "American Idiot",
+                      "album": "American Idiot",
+                      "generated_at": "2026-06-14T00:00:00Z"
+                    },
+                    {
+                      "id": "the-night-flight-orchestra-sometimes-the-worlds-not-enough",
+                      "filename": "TheNightFlightOrchestra_SometimesTheWorldsNotEnough.png",
+                      "path": "images/album-art/TheNightFlightOrchestra_SometimesTheWorldsNotEnough.png",
+                      "artist": "The Night Flight Orchestra",
+                      "song": "Sometimes the World's not Enough",
+                      "album": "Sometimes the World Ain't Enough",
+                      "generated_at": "2026-06-14T00:00:00Z"
+                    },
+                    {
+                      "id": "the-night-flight-orchestra-siberian-queen",
+                      "filename": "TheNightFlightOrchestra_SiberianQueen.png",
+                      "path": "images/album-art/TheNightFlightOrchestra_SiberianQueen.png",
+                      "artist": "The Night Flight Orchestra",
+                      "song": "Siberian Queen",
+                      "album": "Sometimes the World Ain't Enough",
+                      "generated_at": "2026-06-14T00:00:00Z"
+                    },
+                    {
+                      "id": "the-marvelous-3-write-it-on-your-hand",
+                      "filename": "TheMarvelous3_WriteItOnYourHand.png",
+                      "path": "images/album-art/TheMarvelous3_WriteItOnYourHand.png",
+                      "artist": "The Marvelous 3",
+                      "song": "Write it on Your Hand",
+                      "album": "ReadySexGo",
+                      "generated_at": "2026-06-14T00:00:00Z"
+                    },
+                    {
+                      "id": "urge-overkill-sister-havana",
+                      "filename": "UrgeOverkill_SisterHavana.png",
+                      "path": "images/album-art/UrgeOverkill_SisterHavana.png",
+                      "artist": "Urge Overkill",
+                      "song": "Sister Havana",
+                      "album": "Saturation",
+                      "generated_at": "2026-06-14T00:00:00Z"
+                    },
+                    {
+                      "id": "the-posies-dream-all-day",
+                      "filename": "ThePosies_DreamAllDay.png",
+                      "path": "images/album-art/ThePosies_DreamAllDay.png",
+                      "artist": "The Posies",
+                      "song": "Dream All Day",
+                      "album": "Frosting on the Beater",
+                      "generated_at": "2026-06-14T00:00:00Z"
+                    },
+                    {
+                      "id": "peter-murphy-the-scarlet-thing-in-you",
+                      "filename": "PeterMurphy_TheScarletThingInYou.png",
+                      "path": "images/album-art/PeterMurphy_TheScarletThingInYou.png",
+                      "artist": "Peter Murphy",
+                      "song": "The Scarlet Thing in You",
+                      "album": "Cascade",
+                      "generated_at": "2026-06-14T00:00:00Z"
+                    },
+                    {
+                      "id": "murray-head-chess",
+                      "filename": "MurrayHead_Chess.png",
+                      "path": "images/album-art/MurrayHead_Chess.png",
+                      "artist": "Murray Head",
+                      "song": "Chess",
+                      "album": "Say It Ain't So",
+                      "generated_at": "2026-06-14T00:00:00Z"
+                    },
+                    {
+                      "id": "the-rolling-stones-sympathy-for-the-devil",
+                      "filename": "TheRollingStones_SympathyForTheDevil.png",
+                      "path": "images/album-art/TheRollingStones_SympathyForTheDevil.png",
+                      "artist": "The Rolling Stones",
+                      "song": "Sympathy for the Devil",
+                      "album": "Beggars Banquet",
+                      "generated_at": "2026-06-14T00:00:00Z"
+                    },
+                    {
+                      "id": "the-marvelous-3-vampires-in-love",
+                      "filename": "TheMarvelous3_VampiresInLove.png",
+                      "path": "images/album-art/TheMarvelous3_VampiresInLove.png",
+                      "artist": "The Marvelous 3",
+                      "song": "Vampires in Love",
+                      "album": "ReadySexGo",
+                      "generated_at": "2026-06-14T00:00:00Z"
+                    },
+                    {
+                      "id": "hoodoo-gurus-bittersweet",
+                      "filename": "HoodooGurus_Bittersweet.png",
+                      "path": "images/album-art/HoodooGurus_Bittersweet.png",
+                      "artist": "Hoodoo Gurus",
+                      "song": "Bittersweet",
+                      "album": "Mars Needs Guitars!",
+                      "generated_at": "2026-06-14T00:00:00Z"
+                    },
+                    {
+                      "id": "hoodoo-gurus-heart-of-darkness",
+                      "filename": "HoodooGurus_HeartOfDarkness.png",
+                      "path": "images/album-art/HoodooGurus_HeartOfDarkness.png",
+                      "artist": "Hoodoo Gurus",
+                      "song": "Heart of Darkness",
+                      "album": "Magnum Cum Louder",
+                      "generated_at": "2026-06-14T00:00:00Z"
+                    },
+                    {
+                      "id": "the-fixx-are-we-ourselves",
+                      "filename": "TheFixx_AreWeOurselves.png",
+                      "path": "images/album-art/TheFixx_AreWeOurselves.png",
+                      "artist": "The Fixx",
+                      "song": "Are We Ourselves",
+                      "album": "Phantoms",
+                      "generated_at": "2026-06-14T00:00:00Z"
+                    },
+                    {
+                      "id": "blue-oyster-cult-then-came-the-last-days-of-may",
+                      "filename": "BlueOysterCult_ThenCameTheLastDaysOfMay.png",
+                      "path": "images/album-art/BlueOysterCult_ThenCameTheLastDaysOfMay.png",
+                      "artist": "Blue Oyster Cult",
+                      "song": "Then Came the Last Days of May",
+                      "album": "Blue Öyster Cult",
+                      "generated_at": "2026-06-14T00:00:00Z"
+                    },
+                    {
+                      "id": "the-moody-blues-the-story-in-your-eyes",
+                      "filename": "TheMoodyBlues_TheStoryInYourEyes.png",
+                      "path": "images/album-art/TheMoodyBlues_TheStoryInYourEyes.png",
+                      "artist": "The Moody Blues",
+                      "song": "The Story in Your Eyes",
+                      "album": "Every Good Boy Deserves Favour",
+                      "generated_at": "2026-06-14T00:00:00Z"
+                    },
+                    {
+                      "id": "the-zombies-shes-not-there",
+                      "filename": "TheZombies_ShesNotThere.png",
+                      "path": "images/album-art/TheZombies_ShesNotThere.png",
+                      "artist": "The Zombies",
+                      "song": "She's Not There",
+                      "album": "Begin Here",
+                      "generated_at": "2026-06-14T00:00:00Z"
+                    },
+                    {
+                      "id": "nestor-on-the-run",
+                      "filename": "Nestor_OnTheRun.png",
+                      "path": "images/album-art/Nestor_OnTheRun.png",
+                      "artist": "Nestor",
+                      "song": "On the Run",
+                      "album": "Kids in a Ghost Town",
+                      "generated_at": "2026-06-14T00:00:00Z"
+                    },
+                    {
+                      "id": "daft-punk-the-grid",
+                      "filename": "DaftPunk_TheGrid.png",
+                      "path": "images/album-art/DaftPunk_TheGrid.png",
+                      "artist": "Daft Punk",
+                      "song": "The Grid",
+                      "album": "TRON: Legacy",
+                      "generated_at": "2026-06-14T00:00:00Z"
+                    },
+                    {
+                      "id": "cowboy-mouth-voodoo-shoppe",
+                      "filename": "CowboyMouth_VoodooShoppe.png",
+                      "path": "images/album-art/CowboyMouth_VoodooShoppe.png",
+                      "artist": "Cowboy Mouth",
+                      "song": "Voodoo Shoppe",
+                      "album": "Voodoo Shoppe",
+                      "generated_at": "2026-06-14T00:00:00Z"
+                    },
+                    {
+                      "id": "rush-limelight",
+                      "filename": "Rush_Limelight.png",
+                      "path": "images/album-art/Rush_Limelight.png",
+                      "artist": "Rush",
+                      "song": "Limelight",
+                      "album": "Moving Pictures",
+                      "generated_at": "2026-06-14T00:00:00Z"
+                    },
+                    {
+                      "id": "sweet-teenage-rampage",
+                      "filename": "Sweet_TeenageRampage.png",
+                      "path": "images/album-art/Sweet_TeenageRampage.png",
+                      "artist": "Sweet",
+                      "song": "Teenage Rampage",
+                      "album": "Desolation Boulevard",
+                      "generated_at": "2026-06-14T00:00:00Z"
+                    },
+                    {
+                      "id": "guadacanal-diary-cattle-prod",
+                      "filename": "GuadacanalDiary_CattleProd.png",
+                      "path": "images/album-art/GuadacanalDiary_CattleProd.png",
+                      "artist": "Guadacanal Diary",
+                      "song": "Cattle Prod",
+                      "album": "2×4",
+                      "generated_at": "2026-06-14T00:00:00Z"
+                    },
+                    {
+                      "id": "the-beatles-eight-days-a-week",
+                      "filename": "TheBeatles_EightDaysAWeek.png",
+                      "path": "images/album-art/TheBeatles_EightDaysAWeek.png",
+                      "artist": "The Beatles",
+                      "song": "Eight Days a Week",
+                      "album": "Beatles for Sale",
+                      "generated_at": "2026-06-14T00:00:00Z"
+                    },
+                    {
+                      "id": "the-cult-edie-ciao-baby",
+                      "filename": "TheCult_EdieCiaoBaby.png",
+                      "path": "images/album-art/TheCult_EdieCiaoBaby.png",
+                      "artist": "The Cult",
+                      "song": "Edie (Ciao Baby)",
+                      "album": "Sonic Temple",
+                      "generated_at": "2026-06-14T00:00:00Z"
                     }
                ]
 }
