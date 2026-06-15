@@ -1014,6 +1014,123 @@
                     "song": "I Hate Myself for Loving You",
                     "album": "Up Your Alley",
                     "generated_at": "2026-06-14T00:00:00Z"
-                  }
+                  },
+				{
+				  "id": "clash-magnificent-seven",
+				  "filename": "Clash_MagnificentSeven.png",
+				  "path": "images/album-art/Clash_MagnificentSeven.png",
+				  "artist": "Clash",
+				  "song": "Magnificent Seven",
+				  "album": "Sandinista!",
+				  "generated_at": "2026-06-15T00:00:00Z"
+				},
+        				{
+				  "id": "clash-magnificent-seven",
+				  "filename": "Clash_MagnificentSeven.png",
+				  "path": "images/album-art/Clash_MagnificentSeven.png",
+				  "artist": "Clash",
+				  "song": "Magnificent Seven",
+				  "album": "Sandinista!",
+				  "generated_at": "2026-06-15T00:00:00Z"
+				},
+				{
+				  "id": "jeff-wayne-justin-hayward-forever-autumn",
+				  "filename": "JeffWayneJustinHayward_ForeverAutumn.png",
+				  "path": "images/album-art/JeffWayneJustinHayward_ForeverAutumn.png",
+				  "artist": "Jeff Wayne, Justin Hayward",
+				  "song": "Forever Autumn",
+				  "album": "Jeff Wayne's Musical Version of The War of the Worlds",
+				  "generated_at": "2026-06-15T00:00:00Z"
+				},
+				{
+				  "id": "new-york-dolls-personality-crisis",
+				  "filename": "NewYorkDolls_PersonalityCrisis.png",
+				  "path": "images/album-art/NewYorkDolls_PersonalityCrisis.png",
+				  "artist": "New York Dolls",
+				  "song": "Personality Crisis",
+				  "album": "New York Dolls",
+				  "generated_at": "2026-06-15T00:00:00Z"
+				},
+				{
+				  "id": "60-ft-dolls-the-one",
+				  "filename": "60FtDolls_TheOne.png",
+				  "path": "images/album-art/60FtDolls_TheOne.png",
+				  "artist": "60 Ft Dolls",
+				  "song": "The One",
+				  "album": "The Big 3",
+				  "generated_at": "2026-06-15T00:00:00Z"
+				},
+				{
+				  "id": "alice-cooper-feed-my-frankenstein",
+				  "filename": "AliceCooper_FeedMyFrankenstein.png",
+				  "path": "images/album-art/AliceCooper_FeedMyFrankenstein.png",
+				  "artist": "Alice Cooper",
+				  "song": "Feed My Frankenstein",
+				  "album": "Hey Stoopid",
+				  "generated_at": "2026-06-15T00:00:00Z"
+				},
+				{
+				  "id": "alice-cooper-no-more-mr-nice-guy",
+				  "filename": "AliceCooper_NoMoreMrNiceGuy.png",
+				  "path": "images/album-art/AliceCooper_NoMoreMrNiceGuy.png",
+				  "artist": "Alice Cooper",
+				  "song": "No More Mr. Nice Guy",
+				  "album": "Billion Dollar Babies",
+				  "generated_at": "2026-06-15T00:00:00Z"
+				},
+				{
+				  "id": "cocktail-slippers-who-you-are",
+				  "filename": "CocktailSlippers_WhoYouAre.png",
+				  "path": "images/album-art/CocktailSlippers_WhoYouAre.png",
+				  "artist": "Cocktail Slippers",
+				  "song": "Who You Are",
+				  "album": "Mastermind",
+				  "generated_at": "2026-06-15T00:00:00Z"
+				},
+				{
+				  "id": "ratt-round-and-round",
+				  "filename": "Ratt_RoundAndRound.png",
+				  "path": "images/album-art/Ratt_RoundAndRound.png",
+				  "artist": "Ratt",
+				  "song": "Round and Round",
+				  "album": "Out of the Cellar",
+				  "generated_at": "2026-06-15T00:00:00Z"
+				},
+				{
+				  "id": "autograph-turn-up-the-radio",
+				  "filename": "Autograph_TurnUpTheRadio.png",
+				  "path": "images/album-art/Autograph_TurnUpTheRadio.png",
+				  "artist": "Autograph",
+				  "song": "Turn Up the Radio",
+				  "album": "Sign In Please",
+				  "generated_at": "2026-06-15T00:00:00Z"
+				},
+				{
+				  "id": "dokken-unchain-the-night",
+				  "filename": "Dokken_UnchainTheNight.png",
+				  "path": "images/album-art/Dokken_UnchainTheNight.png",
+				  "artist": "Dokken",
+				  "song": "Unchain the Night",
+				  "album": "Under Lock and Key",
+				  "generated_at": "2026-06-15T00:00:00Z"
+				},
+				{
+				  "id": "abc-poison-arrow",
+				  "filename": "ABC_PoisonArrow.png",
+				  "path": "images/album-art/ABC_PoisonArrow.png",
+				  "artist": "ABC",
+				  "song": "Poison Arrow",
+				  "album": "The Lexicon of Love",
+				  "generated_at": "2026-06-15T00:00:00Z"
+				},
+				{
+				  "id": "a-flock-of-seagulls-space-age-love-song",
+				  "filename": "AFlockOfSeagulls_SpaceAgeLoveSong.png",
+				  "path": "images/album-art/AFlockOfSeagulls_SpaceAgeLoveSong.png",
+				  "artist": "A Flock of Seagulls",
+				  "song": "Space Age Love Song",
+				  "album": "A Flock of Seagulls",
+				  "generated_at": "2026-06-15T00:00:00Z"
+				}
                ]
 }
