@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover" />
-  <title>Album Cover Art</title>
+  <title>37crows Records - Now Playing</title>
   <style>
     :root {
       /* ---- Tunables (time values MUST carry a unit, e.g. ms) -------- */
@@ -166,10 +166,11 @@
     "use strict";
 
     // ---- Config (keep CYCLE_MS in sync with --cycle-ms in CSS) ----------
-    var CYCLE_MS = 30000;                 // time each album cover is displayed
+    var CYCLE_MS = 15000;                 // time each album cover is displayed (matches --cycle-ms in CSS)
     var STARTER_MS = 10000;               // time the opening starter image is shown
     var CAPTION_DELAY_MS = 5000;          // wait this long after a cover loads, then fade caption in
-    var CAPTION_HOLD_MS = 10000;          // caption stays up this long before fading out
+    var CAPTION_HOLD_MS = 7000;           // caption stays up this long before fading out (delay+hold+fade < cycle so it clears before the swap)
+    var UNZOOM_MS = 1500;                 // ease the active image back to full size this long before each transition
     var REFRESH_MS = 8 * 60 * 60 * 1000;  // full page self-refresh every 8 hours
     var POLL_MS = 5 * 60 * 1000;          // re-check manifest for new art every 5 min
     var MANIFEST_URL = "manifest.json";
@@ -183,6 +184,7 @@
     var lastShownPath = null;// path of the most recent image (avoid repeats)
     var captionInTimer = null;  // pending delayed fade-in
     var captionOutTimer = null; // pending fade-out after the hold
+    var unzoomTimer = null;     // pending pre-transition zoom-out
 
     function showMessage(text) {
       var el = document.getElementById("message");
@@ -253,13 +255,49 @@
       }, CAPTION_DELAY_MS);
     }
 
+    // Clear any inline transform state left over from a previous unzoom so the
+    // CSS Ken Burns animation can run cleanly when this slide reactivates.
+    function resetSlideTransforms(slide) {
+      [slide.querySelector(".cover"), slide.querySelector(".backdrop")].forEach(function (el) {
+        el.style.animation = "";
+        el.style.transition = "";
+        el.style.transform = "";
+      });
+    }
+
+    // Smoothly ease the active slide's zoom back to full size over UNZOOM_MS.
+    // We freeze the in-progress Ken Burns transform, then transition it back to
+    // the slide's resting scale so the crossfade starts from an unscaled image
+    // (no abrupt snap when `is-active` is later removed).
+    function startUnzoom(slide) {
+      var targets = [
+        { el: slide.querySelector(".cover"), rest: "scale(1)" },
+        { el: slide.querySelector(".backdrop"), rest: "scale(1.05)" }
+      ];
+      targets.forEach(function (t) {
+        var frozen = getComputedStyle(t.el).transform; // current animated matrix
+        t.el.style.animation = "none";
+        t.el.style.transition = "none";
+        t.el.style.transform = frozen;
+      });
+      // Commit the frozen transform before starting the eased transition.
+      void slide.offsetWidth;
+      targets.forEach(function (t) {
+        t.el.style.transition = "transform " + UNZOOM_MS + "ms ease-in-out";
+        t.el.style.transform = t.rest;
+      });
+    }
+
     // Swap the hidden slide in with the given image path, then crossfade.
-    // `meta` (optional) drives the caption.
-    function transitionTo(src, meta) {
+    // `meta` (optional) drives the caption. `displayMs` (optional) is how long
+    // this slide will be shown; when given, the image eases back to full size
+    // UNZOOM_MS before the next transition.
+    function transitionTo(src, meta, displayMs) {
       var incoming = slides[1 - active];
       var img = incoming.querySelector(".cover");
       var backdrop = incoming.querySelector(".backdrop");
 
+      resetSlideTransforms(incoming);
       img.src = src;
       backdrop.style.backgroundImage = "url('" + src.replace(/'/g, "\\'") + "')";
 
@@ -268,13 +306,21 @@
       active = 1 - active;
       lastShownPath = src;
 
+      // Schedule the pre-transition zoom-out for the slide we just activated.
+      if (unzoomTimer) { clearTimeout(unzoomTimer); unzoomTimer = null; }
+      if (displayMs && displayMs > UNZOOM_MS) {
+        unzoomTimer = setTimeout(function () {
+          startUnzoom(incoming);
+        }, displayMs - UNZOOM_MS);
+      }
+
       showCaption(meta);
     }
 
     async function tick() {
       var item = nextImage();
       await preload(item.path);    // wait so we never fade to a blank frame
-      transitionTo(item.path, item);
+      transitionTo(item.path, item, CYCLE_MS);
       setTimeout(tick, CYCLE_MS);
     }
 
@@ -309,12 +355,14 @@
       if (starters.length) {
         var starter = starters[Math.floor(Math.random() * starters.length)];
         await preload(starter);
-        transitionTo(starter, null);
+        // Only schedule the zoom-out if a rotation will actually follow.
+        transitionTo(starter, null, images.length ? STARTER_MS : null);
       } else {
-        // No starters defined — jump straight into the gallery.
+        // No starters defined — jump straight into the gallery. This first
+        // cover is shown for STARTER_MS before the first tick replaces it.
         var first = nextImage();
         await preload(first.path);
-        transitionTo(first.path, first);
+        transitionTo(first.path, first, STARTER_MS);
       }
 
       if (images.length === 0) {
