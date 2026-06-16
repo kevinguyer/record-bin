@@ -1131,6 +1131,87 @@
 				  "song": "Space Age Love Song",
 				  "album": "A Flock of Seagulls",
 				  "generated_at": "2026-06-15T00:00:00Z"
+				},
+				{
+				  "id": "the-primitives-dizzy-heights",
+				  "filename": "ThePrimitives_DizzyHeights.png",
+				  "path": "images/album-art/ThePrimitives_DizzyHeights.png",
+				  "artist": "The Primitives",
+				  "song": "Dizzy Heights",
+				  "album": "Pure",
+				  "generated_at": "2026-06-16T00:00:00Z"
+				},
+				{
+				  "id": "sidewinders-we-dont-do-that-anymore",
+				  "filename": "Sidewinders_WeDontDoThatAnymore.png",
+				  "path": "images/album-art/Sidewinders_WeDontDoThatAnymore.png",
+				  "artist": "Sidewinders",
+				  "song": "We Don't Do That Anymore",
+				  "album": "Cuacha!",
+				  "generated_at": "2026-06-16T00:00:00Z"
+				},
+				{
+				  "id": "material-issue-girl-from-out-of-this-world",
+				  "filename": "MaterialIssue_GirlFromOutOfThisWorld.png",
+				  "path": "images/album-art/MaterialIssue_GirlFromOutOfThisWorld.png",
+				  "artist": "Material Issue",
+				  "song": "Girl From Out of This World",
+				  "album": "Destination Universe",
+				  "generated_at": "2026-06-16T00:00:00Z"
+				},
+				{
+				  "id": "the-refreshments-heaven-or-the-highway-out-of-town",
+				  "filename": "TheRefreshments_HeavenOrTheHighwayOutOfTown.png",
+				  "path": "images/album-art/TheRefreshments_HeavenOrTheHighwayOutOfTown.png",
+				  "artist": "The Refreshments",
+				  "song": "Heaven or the Highway out of Town",
+				  "album": "Fizzy Fuzzy Big & Buzzy",
+				  "generated_at": "2026-06-16T00:00:00Z"
+				},
+				{
+				  "id": "the-refreshments-una-soda",
+				  "filename": "TheRefreshments_UnaSoda.png",
+				  "path": "images/album-art/TheRefreshments_UnaSoda.png",
+				  "artist": "The Refreshments",
+				  "song": "Una Soda",
+				  "album": "The Bottle & Fresh Horses",
+				  "generated_at": "2026-06-16T00:00:00Z"
+				},
+				{
+				  "id": "roger-clyne-and-the-peacemakers-west-texas-moon",
+				  "filename": "RogerClyneAndThePeacemakers_WestTexasMoon.png",
+				  "path": "images/album-art/RogerClyneAndThePeacemakers_WestTexasMoon.png",
+				  "artist": "Roger Clyne & The Peacemakers",
+				  "song": "West Texas Moon",
+				  "album": "Honky Tonk Union",
+				  "generated_at": "2026-06-16T00:00:00Z"
+				},
+				{
+				  "id": "jonathan-coulton-skullcrusher-mountain",
+				  "filename": "JonathanCoulton_SkullcrusherMountain.png",
+				  "path": "images/album-art/JonathanCoulton_SkullcrusherMountain.png",
+				  "artist": "Jonathan Coulton",
+				  "song": "Skullcrusher Mountain",
+				  "album": "Thing a Week One",
+				  "generated_at": "2026-06-16T00:00:00Z"
+				},
+				{
+				  "id": "judas-priest-living-after-midnight",
+				  "filename": "JudasPriest_LivingAfterMidnight.png",
+				  "path": "images/album-art/JudasPriest_LivingAfterMidnight.png",
+				  "artist": "Judas Priest",
+				  "song": "Living After Midnight",
+				  "album": "British Steel",
+				  "generated_at": "2026-06-16T00:00:00Z"
+				},
+				{
+				  "id": "iron-maiden-can-i-play-with-madness",
+				  "filename": "IronMaiden_CanIPlayWithMadness.png",
+				  "path": "images/album-art/IronMaiden_CanIPlayWithMadness.png",
+				  "artist": "Iron Maiden",
+				  "song": "Can I Play With Madness?",
+				  "album": "Seventh Son of a Seventh Son",
+				  "generated_at": "2026-06-16T00:00:00Z"
 				}
                ]
 }
