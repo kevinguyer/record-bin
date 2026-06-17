@@ -1212,6 +1212,375 @@
 				  "song": "Can I Play With Madness?",
 				  "album": "Seventh Son of a Seventh Son",
 				  "generated_at": "2026-06-16T00:00:00Z"
+				},
+				{
+				  "id": "asia-only-time-will-tell",
+				  "filename": "Asia_OnlyTimeWillTell.png",
+				  "path": "images/album-art/Asia_OnlyTimeWillTell.png",
+				  "artist": "Asia",
+				  "song": "Only Time Will Tell",
+				  "album": "Asia",
+				  "generated_at": "2026-06-17T00:00:00Z"
+				},
+				{
+				  "id": "the-buggles-video-killed-the-radio-star",
+				  "filename": "TheBuggles_VideoKilledTheRadioStar.png",
+				  "path": "images/album-art/TheBuggles_VideoKilledTheRadioStar.png",
+				  "artist": "The Buggles",
+				  "song": "Video Killed the Radio Star",
+				  "album": "The Age of Plastic",
+				  "generated_at": "2026-06-17T00:00:00Z"
+				},
+				{
+				  "id": "cheap-trick-no-direction-home",
+				  "filename": "CheapTrick_NoDirectionHome.png",
+				  "path": "images/album-art/CheapTrick_NoDirectionHome.png",
+				  "artist": "Cheap Trick",
+				  "song": "No Direction Home",
+				  "album": "We're All Alright!",
+				  "generated_at": "2026-06-17T00:00:00Z"
+				},
+				{
+				  "id": "the-greg-kihn-band-the-breakup-song",
+				  "filename": "TheGregKihnBand_TheBreakupSong.png",
+				  "path": "images/album-art/TheGregKihnBand_TheBreakupSong.png",
+				  "artist": "The Greg Kihn Band",
+				  "song": "The Breakup Song",
+				  "album": "RocKihnRoll",
+				  "generated_at": "2026-06-17T00:00:00Z"
+				},
+				{
+				  "id": "journey-stone-in-love",
+				  "filename": "Journey_StoneInLove.png",
+				  "path": "images/album-art/Journey_StoneInLove.png",
+				  "artist": "Journey",
+				  "song": "Stone in Love",
+				  "album": "Escape",
+				  "generated_at": "2026-06-17T00:00:00Z"
+				},
+				{
+				  "id": "the-darkness-i-believe-in-a-thing-called-love",
+				  "filename": "TheDarkness_IBelieveInAThingCalledLove.png",
+				  "path": "images/album-art/TheDarkness_IBelieveInAThingCalledLove.png",
+				  "artist": "The Darkness",
+				  "song": "I Believe in a Thing Called Love",
+				  "album": "Permission to Land",
+				  "generated_at": "2026-06-17T00:00:00Z"
+				},
+				{
+				  "id": "david-bowie-spiders-from-mars",
+				  "filename": "DavidBowie_SpidersFromMars.png",
+				  "path": "images/album-art/DavidBowie_SpidersFromMars.png",
+				  "artist": "David Bowie",
+				  "song": "Spiders From Mars",
+				  "album": "The Rise and Fall of Ziggy Stardust and the Spiders from Mars",
+				  "generated_at": "2026-06-17T00:00:00Z"
+				},
+				{
+				  "id": "david-bowie-space-oddity",
+				  "filename": "DavidBowie_SpaceOddity.png",
+				  "path": "images/album-art/DavidBowie_SpaceOddity.png",
+				  "artist": "David Bowie",
+				  "song": "Space Oddity",
+				  "album": "David Bowie",
+				  "generated_at": "2026-06-17T00:00:00Z"
+				},
+				{
+				  "id": "iggy-pop-the-passenger",
+				  "filename": "IggyPop_ThePassenger.png",
+				  "path": "images/album-art/IggyPop_ThePassenger.png",
+				  "artist": "Iggy Pop",
+				  "song": "The Passenger",
+				  "album": "Lust for Life",
+				  "generated_at": "2026-06-17T00:00:00Z"
+				},
+				{
+				  "id": "the-police-synchronicity",
+				  "filename": "ThePolice_Synchronicity.png",
+				  "path": "images/album-art/ThePolice_Synchronicity.png",
+				  "artist": "The Police",
+				  "song": "Synchronicity",
+				  "album": "Synchronicity",
+				  "generated_at": "2026-06-17T00:00:00Z"
+				},
+				{
+				  "id": "the-police-wrapped-around-your-finger",
+				  "filename": "ThePolice_WrappedAroundYourFinger.png",
+				  "path": "images/album-art/ThePolice_WrappedAroundYourFinger.png",
+				  "artist": "The Police",
+				  "song": "Wrapped Around Your Finger",
+				  "album": "Synchronicity",
+				  "generated_at": "2026-06-17T00:00:00Z"
+				},
+				{
+				  "id": "the-scorpions-rock-you-like-a-hurricane",
+				  "filename": "TheScorpions_RockYouLikeAHurricane.png",
+				  "path": "images/album-art/TheScorpions_RockYouLikeAHurricane.png",
+				  "artist": "The Scorpions",
+				  "song": "Rock You Like a Hurricane",
+				  "album": "Love at First Sting",
+				  "generated_at": "2026-06-17T00:00:00Z"
+				},
+				{
+				  "id": "the-presidents-of-the-united-states-of-america-volcano",
+				  "filename": "ThePresidentsOfTheUnitedStatesOfAmerica_Volcano.png",
+				  "path": "images/album-art/ThePresidentsOfTheUnitedStatesOfAmerica_Volcano.png",
+				  "artist": "The Presidents of the United States of America",
+				  "song": "Volcano",
+				  "album": "II",
+				  "generated_at": "2026-06-17T00:00:00Z"
+				},
+				{
+				  "id": "the-presidents-of-the-united-states-of-america-tiki-god",
+				  "filename": "ThePresidentsoftheUnitedStatesofAmerica_TikiGod.png",
+				  "path": "images/album-art/ThePresidentsoftheUnitedStatesofAmerica_TikiGod.png",
+				  "artist": "The Presidents of the United States of America",
+				  "song": "Tiki God",
+				  "album": "II",
+				  "generated_at": "2026-06-17T00:00:00Z"
+				},
+				{
+				  "id": "stone-temple-pilots-interstate-love-song",
+				  "filename": "StoneTemplePilots_InterstateLoveSong.png",
+				  "path": "images/album-art/StoneTemplePilots_InterstateLoveSong.png",
+				  "artist": "Stone Temple Pilots",
+				  "song": "Interstate Love Song",
+				  "album": "Purple",
+				  "generated_at": "2026-06-17T00:00:00Z"
+				},
+				{
+				  "id": "soundgarden-black-hole-sun",
+				  "filename": "Soundgarden_BlackHoleSun.png",
+				  "path": "images/album-art/Soundgarden_BlackHoleSun.png",
+				  "artist": "Soundgarden",
+				  "song": "Black Hole Sun",
+				  "album": "Superunknown",
+				  "generated_at": "2026-06-17T00:00:00Z"
+				},
+				{
+				  "id": "jimmy-buffett-boat-drinks",
+				  "filename": "JimmyBuffett_BoatDrinks.png",
+				  "path": "images/album-art/JimmyBuffett_BoatDrinks.png",
+				  "artist": "Jimmy Buffett",
+				  "song": "Boat Drinks",
+				  "album": "Volcano",
+				  "generated_at": "2026-06-17T00:00:00Z"
+				},
+				{
+				  "id": "garbage-only-happy-when-it-rains",
+				  "filename": "Garbage_OnlyHappyWhenItRains.png",
+				  "path": "images/album-art/Garbage_OnlyHappyWhenItRains.png",
+				  "artist": "Garbage",
+				  "song": "Only Happy When it Rains",
+				  "album": "Garbage",
+				  "generated_at": "2026-06-17T00:00:00Z"
+				},
+				{
+				  "id": "the-lemonheads-into-your-arms",
+				  "filename": "TheLemonheads_IntoYourArms.png",
+				  "path": "images/album-art/TheLemonheads_IntoYourArms.png",
+				  "artist": "The Lemonheads",
+				  "song": "Into Your Arms",
+				  "album": "Come On Feel The Lemonheads",
+				  "generated_at": "2026-06-17T00:00:00Z"
+				},
+				{
+				  "id": "the-mighty-lemon-drops-inside-out",
+				  "filename": "TheMightyLemonDrops_InsideOut.png",
+				  "path": "images/album-art/TheMightyLemonDrops_InsideOut.png",
+				  "artist": "The Mighty Lemon Drops",
+				  "song": "Inside Out",
+				  "album": "World Without End",
+				  "generated_at": "2026-06-17T00:00:00Z"
+				},
+				{
+				  "id": "screaming-trees-nearly-lost-you",
+				  "filename": "ScreamingTrees_NearlyLostYou.png",
+				  "path": "images/album-art/ScreamingTrees_NearlyLostYou.png",
+				  "artist": "Screaming Trees",
+				  "song": "Nearly Lost You",
+				  "album": "Sweet Oblivion",
+				  "generated_at": "2026-06-17T00:00:00Z"
+				},
+				{
+				  "id": "everclear-one-hit-wonder",
+				  "filename": "Everclear_OneHitWonder.png",
+				  "path": "images/album-art/Everclear_OneHitWonder.png",
+				  "artist": "Everclear",
+				  "song": "One Hit Wonder",
+				  "album": "So Much for the Afterglow",
+				  "generated_at": "2026-06-17T00:00:00Z"
+				},
+				{
+				  "id": "the-plimsouls-million-miles-away",
+				  "filename": "ThePlimsouls_MillionMilesAway.png",
+				  "path": "images/album-art/ThePlimsouls_MillionMilesAway.png",
+				  "artist": "The Plimsouls",
+				  "song": "Million Miles Away",
+				  "album": "Everywhere at Once",
+				  "generated_at": "2026-06-17T00:00:00Z"
+				},
+				{
+				  "id": "neds-atomic-dustbin-grey-cell-green",
+				  "filename": "NedsAtomicDustbin_GreyCellGreen.png",
+				  "path": "images/album-art/NedsAtomicDustbin_GreyCellGreen.png",
+				  "artist": "Ned's Atomic Dustbin",
+				  "song": "Grey Cell Green",
+				  "album": "God Fodder",
+				  "generated_at": "2026-06-17T00:00:00Z"
+				},
+				{
+				  "id": "blink-182-whats-my-age-again",
+				  "filename": "Blink182_WhatsMyAgeAgain.png",
+				  "path": "images/album-art/Blink182_WhatsMyAgeAgain.png",
+				  "artist": "Blink-182",
+				  "song": "What's My Age Again?",
+				  "album": "Enema of the State",
+				  "generated_at": "2026-06-17T00:00:00Z"
+				},
+				{
+				  "id": "green-day-basket-case",
+				  "filename": "GreenDay_BasketCase.png",
+				  "path": "images/album-art/GreenDay_BasketCase.png",
+				  "artist": "Green Day",
+				  "song": "Basket Case",
+				  "album": "Dookie",
+				  "generated_at": "2026-06-17T00:00:00Z"
+				},
+				{
+				  "id": "deep-blue-something-breakfast-at-tiffanys",
+				  "filename": "DeepBlueSomething_BreakfastAtTiffanys.png",
+				  "path": "images/album-art/DeepBlueSomething_BreakfastAtTiffanys.png",
+				  "artist": "Deep Blue Something",
+				  "song": "Breakfast at Tiffany's",
+				  "album": "Home",
+				  "generated_at": "2026-06-17T00:00:00Z"
+				},
+				{
+				  "id": "daft-punk-around-the-world",
+				  "filename": "DaftPunk_AroundTheWorld.png",
+				  "path": "images/album-art/DaftPunk_AroundTheWorld.png",
+				  "artist": "Daft Punk",
+				  "song": "Around the World",
+				  "album": "Homework",
+				  "generated_at": "2026-06-17T00:00:00Z"
+				},
+				{
+				  "id": "marvelous-3-indie-queen",
+				  "filename": "Marvelous3_IndieQueen.png",
+				  "path": "images/album-art/Marvelous3_IndieQueen.png",
+				  "artist": "Marvelous 3",
+				  "song": "Indie Queen",
+				  "album": "Hey! Album",
+				  "generated_at": "2026-06-17T00:00:00Z"
+				},
+				{
+				  "id": "harvey-danger-flagpole-sitta",
+				  "filename": "HarveyDanger_FlagpoleSitta.png",
+				  "path": "images/album-art/HarveyDanger_FlagpoleSitta.png",
+				  "artist": "Harvey Danger",
+				  "song": "Flagpole Sitta'",
+				  "album": "Where Have All the Merrymakers Gone?",
+				  "generated_at": "2026-06-17T00:00:00Z"
+				},
+				{
+				  "id": "goldfinger-here-in-your-bedroom",
+				  "filename": "Goldfinger_HereInYourBedroom.png",
+				  "path": "images/album-art/Goldfinger_HereInYourBedroom.png",
+				  "artist": "Goldfinger",
+				  "song": "Here in Your Bedroom",
+				  "album": "Goldfinger",
+				  "generated_at": "2026-06-17T00:00:00Z"
+				},
+				{
+				  "id": "the-goo-goo-dolls-another-second-time-around",
+				  "filename": "TheGooGooDolls_AnotherSecondTimeAround.png",
+				  "path": "images/album-art/TheGooGooDolls_AnotherSecondTimeAround.png",
+				  "artist": "The Goo Goo Dolls",
+				  "song": "Another Second Time Around",
+				  "album": "A Boy Named Goo",
+				  "generated_at": "2026-06-17T00:00:00Z"
+				},
+				{
+				  "id": "the-goo-goo-dolls-aint-that-unusual",
+				  "filename": "TheGooGooDolls_AintThatUnusual.png",
+				  "path": "images/album-art/TheGooGooDolls_AintThatUnusual.png",
+				  "artist": "The Goo Goo Dolls",
+				  "song": "Ain't That Unusual",
+				  "album": "A Boy Named Goo",
+				  "generated_at": "2026-06-17T00:00:00Z"
+				},
+				{
+				  "id": "billy-joel-pressure",
+				  "filename": "BillyJoel_Pressure.png",
+				  "path": "images/album-art/BillyJoel_Pressure.png",
+				  "artist": "Billy Joel",
+				  "song": "Pressure",
+				  "album": "The Nylon Curtain",
+				  "generated_at": "2026-06-17T00:00:00Z"
+				},
+				{
+				  "id": "jackson-brown-lawyers-in-love",
+				  "filename": "JacksonBrown_LawyersInLove.png",
+				  "path": "images/album-art/JacksonBrown_LawyersInLove.png",
+				  "artist": "Jackson Brown",
+				  "song": "Lawyers in Love",
+				  "album": "Lawyers in Love",
+				  "generated_at": "2026-06-17T00:00:00Z"
+				},
+				{
+				  "id": "kool-the-gang-misled",
+				  "filename": "KoolAndTheGang_Misled.png",
+				  "path": "images/album-art/KoolAndTheGang_Misled.png",
+				  "artist": "Kool & The Gang",
+				  "song": "Misled",
+				  "album": "Emergency",
+				  "generated_at": "2026-06-17T00:00:00Z"
+				},
+				{
+				  "id": "little-river-band-youre-driving-me-out-of-my-mind",
+				  "filename": "LittleRiverBand_YoureDrivingMeOutOfMyMind.png",
+				  "path": "images/album-art/LittleRiverBand_YoureDrivingMeOutOfMyMind.png",
+				  "artist": "Little River Band",
+				  "song": "You're Driving Me Out of My Mind",
+				  "album": "No Reins",
+				  "generated_at": "2026-06-17T00:00:00Z"
+				},
+				{
+				  "id": "walter-egan-magnet-and-steel",
+				  "filename": "WalterEgan_MagnetAndSteel.png",
+				  "path": "images/album-art/WalterEgan_MagnetAndSteel.png",
+				  "artist": "Walter Egan",
+				  "song": "Magnet and Steel",
+				  "album": "Not Shy",
+				  "generated_at": "2026-06-17T00:00:00Z"
+				},
+				{
+				  "id": "tommy-shaw-ever-since-the-world-began",
+				  "filename": "TommyShaw_EverSinceTheWorldBegan.png",
+				  "path": "images/album-art/TommyShaw_EverSinceTheWorldBegan.png",
+				  "artist": "Tommy Shaw",
+				  "song": "Ever Since the World Began",
+				  "album": "Ambition",
+				  "generated_at": "2026-06-17T00:00:00Z"
+				},
+				{
+				  "id": "no-doubt-spiderwebs",
+				  "filename": "NoDoubt_Spiderwebs.png",
+				  "path": "images/album-art/NoDoubt_Spiderwebs.png",
+				  "artist": "No Doubt",
+				  "song": "Spiderwebs",
+				  "album": "Tragic Kingdom",
+				  "generated_at": "2026-06-17T00:00:00Z"
+				},
+				{
+				  "id": "soul-asylum-somebody-to-shove",
+				  "filename": "SoulAsylum_SomebodyToShove.png",
+				  "path": "images/album-art/SoulAsylum_SomebodyToShove.png",
+				  "artist": "Soul Asylum",
+				  "song": "Somebody to Shove",
+				  "album": "Grave Dancers Union",
+				  "generated_at": "2026-06-17T00:00:00Z"
 				}
                ]
 }
