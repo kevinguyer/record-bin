@@ -1581,6 +1581,240 @@
 				  "song": "Somebody to Shove",
 				  "album": "Grave Dancers Union",
 				  "generated_at": "2026-06-17T00:00:00Z"
-				}
+				},
+			{
+			  "id": "al-stewart-time-passages",
+			  "filename": "AlStewart_TimePassages.png",
+			  "path": "images/album-art/AlStewart_TimePassages.png",
+			  "artist": "Al Stewart",
+			  "song": "Time Passages",
+			  "album": "Time Passages",
+			  "generated_at": "2026-06-22T00:00:00Z"
+			},
+			{
+			  "id": "al-stewart-year-of-the-cat",
+			  "filename": "AlStewart_YearOfTheCat.png",
+			  "path": "images/album-art/AlStewart_YearOfTheCat.png",
+			  "artist": "Al Stewart",
+			  "song": "Year of the Cat",
+			  "album": "Year of the Cat",
+			  "generated_at": "2026-06-22T00:00:00Z"
+			},
+			{
+			  "id": "looking-glass-brandy-youre-a-fine-girl",
+			  "filename": "LookingGlass_BrandyYoureAFineGirl.png",
+			  "path": "images/album-art/LookingGlass_BrandyYoureAFineGirl.png",
+			  "artist": "Looking Glass",
+			  "song": "Brandy (You're a Fine Girl)",
+			  "album": "Looking Glass",
+			  "generated_at": "2026-06-22T00:00:00Z"
+			},
+			{
+			  "id": "pablo-cruise-love-will-find-a-way",
+			  "filename": "PabloCruise_LoveWillFindAWay.png",
+			  "path": "images/album-art/PabloCruise_LoveWillFindAWay.png",
+			  "artist": "Pablo Cruise",
+			  "song": "Love Will Find a Way",
+			  "album": "Worlds Away",
+			  "generated_at": "2026-06-22T00:00:00Z"
+			},
+			{
+			  "id": "led-zepplin-immigrant-song",
+			  "filename": "LedZepplin_ImmigrantSong.png",
+			  "path": "images/album-art/LedZepplin_ImmigrantSong.png",
+			  "artist": "Led Zepplin",
+			  "song": "Immigrant Song",
+			  "album": "Led Zeppelin III",
+			  "generated_at": "2026-06-22T00:00:00Z"
+			},
+			{
+			  "id": "the-donnas-revolver",
+			  "filename": "TheDonnas_Revolver.png",
+			  "path": "images/album-art/TheDonnas_Revolver.png",
+			  "artist": "The Donnas",
+			  "song": "Revolver",
+			  "album": "Bitchin'",
+			  "generated_at": "2026-06-22T00:00:00Z"
+			},
+			{
+			  "id": "foo-fighters-bridge-burning",
+			  "filename": "FooFighters_BridgeBurning.png",
+			  "path": "images/album-art/FooFighters_BridgeBurning.png",
+			  "artist": "Foo Fighters",
+			  "song": "Bridge Burning",
+			  "album": "Wasting Light",
+			  "generated_at": "2026-06-22T00:00:00Z"
+			},
+			{
+			  "id": "john-newman-love-me-again",
+			  "filename": "JohnNewman_LoveMeAgain.png",
+			  "path": "images/album-art/JohnNewman_LoveMeAgain.png",
+			  "artist": "John Newman",
+			  "song": "Love Me Again",
+			  "album": "Tribute",
+			  "generated_at": "2026-06-22T00:00:00Z"
+			},
+			{
+			  "id": "ghost-dance-macabre",
+			  "filename": "Ghost_DanceMacabre.png",
+			  "path": "images/album-art/Ghost_DanceMacabre.png",
+			  "artist": "Ghost",
+			  "song": "Dance Macabre",
+			  "album": "Prequelle",
+			  "generated_at": "2026-06-22T00:00:00Z"
+			},
+			{
+			  "id": "ghost-square-hammer",
+			  "filename": "Ghost_SquareHammer.png",
+			  "path": "images/album-art/Ghost_SquareHammer.png",
+			  "artist": "Ghost",
+			  "song": "Square Hammer",
+			  "album": "Popestar",
+			  "generated_at": "2026-06-22T00:00:00Z"
+			},
+			{
+			  "id": "coheed-and-cambria-island",
+			  "filename": "CoheedAndCambria_Island.png",
+			  "path": "images/album-art/CoheedAndCambria_Island.png",
+			  "artist": "Coheed and Cambria",
+			  "song": "Island",
+			  "album": "The Color Before the Sun",
+			  "generated_at": "2026-06-22T00:00:00Z"
+			},
+			{
+			  "id": "the-donnas-who-invited-you",
+			  "filename": "TheDonnas_WhoInvitedYou.png",
+			  "path": "images/album-art/TheDonnas_WhoInvitedYou.png",
+			  "artist": "The Donnas",
+			  "song": "Who Invited You?",
+			  "album": "Spend the Night",
+			  "generated_at": "2026-06-22T00:00:00Z"
+			},
+			{
+			  "id": "the-donnas-all-messed-up",
+			  "filename": "TheDonnas_AllMessedUp.png",
+			  "path": "images/album-art/TheDonnas_AllMessedUp.png",
+			  "artist": "The Donnas",
+			  "song": "All Messed Up",
+			  "album": "Spend the Night",
+			  "generated_at": "2026-06-22T00:00:00Z"
+			},
+			{
+			  "id": "the-donnas-its-on-the-rocks",
+			  "filename": "TheDonnas_ItsOnTheRocks.png",
+			  "path": "images/album-art/TheDonnas_ItsOnTheRocks.png",
+			  "artist": "The Donnas",
+			  "song": "It's on the Rocks",
+			  "album": "Spend the Night",
+			  "generated_at": "2026-06-22T00:00:00Z"
+			},
+			{
+			  "id": "the-donnas-i-didnt-like-you-anyway",
+			  "filename": "TheDonnas_IDidntLikeYouAnyway.png",
+			  "path": "images/album-art/TheDonnas_IDidntLikeYouAnyway.png",
+			  "artist": "The Donnas",
+			  "song": "I Didn't Like You Anyway",
+			  "album": "Spend the Night",
+			  "generated_at": "2026-06-22T00:00:00Z"
+			},
+			{
+			  "id": "the-donnas-friends-like-mine",
+			  "filename": "TheDonnas_FriendsLikeMine.png",
+			  "path": "images/album-art/TheDonnas_FriendsLikeMine.png",
+			  "artist": "The Donnas",
+			  "song": "Friends Like Mine",
+			  "album": "Spend the Night",
+			  "generated_at": "2026-06-22T00:00:00Z"
+			},
+			{
+			  "id": "the-donnas-have-you-no-pride",
+			  "filename": "TheDonnas_HaveYouNoPride.png",
+			  "path": "images/album-art/TheDonnas_HaveYouNoPride.png",
+			  "artist": "The Donnas",
+			  "song": "Have You No Pride",
+			  "album": "Spend the Night",
+			  "generated_at": "2026-06-22T00:00:00Z"
+			},
+			{
+			  "id": "the-donnas-it-takes-one-to-know-one",
+			  "filename": "TheDonnas_ItTakesOneToKnowOne.png",
+			  "path": "images/album-art/TheDonnas_ItTakesOneToKnowOne.png",
+			  "artist": "The Donnas",
+			  "song": "It Takes One to Know One",
+			  "album": "Bitchin'",
+			  "generated_at": "2026-06-22T00:00:00Z"
+			},
+			{
+			  "id": "letters-to-cleo-here-and-now",
+			  "filename": "LettersToCleo_HereAndNow.png",
+			  "path": "images/album-art/LettersToCleo_HereAndNow.png",
+			  "artist": "Letters To Cleo",
+			  "song": "Here and Now",
+			  "album": "Aurora Gory Alice",
+			  "generated_at": "2026-06-22T00:00:00Z"
+			},
+			{
+			  "id": "the-graces-lay-down-your-arms",
+			  "filename": "TheGraces_LayDownYourArms.png",
+			  "path": "images/album-art/TheGraces_LayDownYourArms.png",
+			  "artist": "The Graces",
+			  "song": "Lay Down Your Arms",
+			  "album": "Perfect View",
+			  "generated_at": "2026-06-22T00:00:00Z"
+			},
+			{
+			  "id": "republica-drop-dead-gorgeous",
+			  "filename": "Republica_DropDeadGorgeous.png",
+			  "path": "images/album-art/Republica_DropDeadGorgeous.png",
+			  "artist": "Republica",
+			  "song": "Drop Dead Gorgeous",
+			  "album": "Republica",
+			  "generated_at": "2026-06-22T00:00:00Z"
+			},
+			{
+			  "id": "republica-ready-to-go",
+			  "filename": "Republica_ReadyToGo.png",
+			  "path": "images/album-art/Republica_ReadyToGo.png",
+			  "artist": "Republica",
+			  "song": "Ready To Go",
+			  "album": "Republica",
+			  "generated_at": "2026-06-22T00:00:00Z"
+			},
+			{
+			  "id": "the-psychedelic-furs-the-ghost-in-you",
+			  "filename": "ThePsychedelicFurs_TheGhostInYou.png",
+			  "path": "images/album-art/ThePsychedelicFurs_TheGhostInYou.png",
+			  "artist": "The Psychedelic Furs",
+			  "song": "The Ghost in You",
+			  "album": "Mirror Moves",
+			  "generated_at": "2026-06-22T00:00:00Z"
+			},
+			{
+			  "id": "abc-the-look-of-love",
+			  "filename": "ABC_TheLookOfLove.png",
+			  "path": "images/album-art/ABC_TheLookOfLove.png",
+			  "artist": "ABC",
+			  "song": "The Look of Love",
+			  "album": "The Lexicon of Love",
+			  "generated_at": "2026-06-22T00:00:00Z"
+			},
+			{
+			  "id": "joy-division-love-will-tear-us-apart",
+			  "filename": "JoyDivision_LoveWillTearUsApart.png",
+			  "path": "images/album-art/JoyDivision_LoveWillTearUsApart.png",
+			  "artist": "Joy Division",
+			  "song": "Love Will Tear Us Apart",
+			  "album": "Substance",
+			  "generated_at": "2026-06-22T00:00:00Z"
+			},
+			{
+			  "id": "honeymoon-suite-new-girl-now",
+			  "filename": "HoneymoonSuite_NewGirlNow.png",
+			  "path": "images/album-art/HoneymoonSuite_NewGirlNow.png",
+			  "artist": "Honeymoon Suite",
+			  "song": "New Girl Now",
+			  "album": "Honeymoon Suite",
+			  "generated_at": "2026-06-22T00:00:00Z"
+			}
                ]
 }
