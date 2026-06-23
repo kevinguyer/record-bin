@@ -1815,6 +1815,447 @@
 			  "song": "New Girl Now",
 			  "album": "Honeymoon Suite",
 			  "generated_at": "2026-06-22T00:00:00Z"
+			},
+			{
+			  "id": "afi-girls-not-grey",
+			  "filename": "AFI_GirlsNotGrey.png",
+			  "path": "images/album-art/AFI_GirlsNotGrey.png",
+			  "artist": "AFI",
+			  "song": "Girl's Not Grey",
+			  "album": "Sing the Sorrow",
+			  "generated_at": "2026-06-19T00:00:00Z"
+			},
+			{
+			  "id": "propagandhi-at-peace",
+			  "filename": "Propagandhi_AtPeace.png",
+			  "path": "images/album-art/Propagandhi_AtPeace.png",
+			  "artist": "Propagandhi",
+			  "song": "At Peace",
+			  "album": "At Peace",
+			  "generated_at": "2026-06-19T00:00:00Z"
+			},
+			{
+			  "id": "all-time-low-dear-maria-count-me-in",
+			  "filename": "AllTimeLow_DearMariaCountMeIn.png",
+			  "path": "images/album-art/AllTimeLow_DearMariaCountMeIn.png",
+			  "artist": "All Time Low",
+			  "song": "Dear Maria, Count Me In",
+			  "album": "So Wrong, It's Right",
+			  "generated_at": "2026-06-19T00:00:00Z"
+			},
+			{
+			  "id": "joy-buzzer-judy-judy-judy",
+			  "filename": "JoyBuzzer_JudyJudyJudy.png",
+			  "path": "images/album-art/JoyBuzzer_JudyJudyJudy.png",
+			  "artist": "Joy Buzzer",
+			  "song": "Judy, Judy, Judy",
+			  "album": "Pleased to Meet You",
+			  "generated_at": "2026-06-19T00:00:00Z"
+			},
+			{
+			  "id": "samiam-crystallized",
+			  "filename": "Samiam_Crystallized.png",
+			  "path": "images/album-art/Samiam_Crystallized.png",
+			  "artist": "Samiam",
+			  "song": "Crystallized",
+			  "album": "Stowaway",
+			  "generated_at": "2026-06-19T00:00:00Z"
+			},
+			{
+			  "id": "the-breakers-on-the-dance-floor",
+			  "filename": "TheBreakers_OnTheDanceFloor.png",
+			  "path": "images/album-art/TheBreakers_OnTheDanceFloor.png",
+			  "artist": "The Breakers",
+			  "song": "On the Dance Floor",
+			  "album": "On the Dance Floor - Single",
+			  "generated_at": "2026-06-19T00:00:00Z"
+			},
+			{
+			  "id": "the-j-geils-band-one-last-kiss",
+			  "filename": "TheJGeilsBand_OneLastKiss.png",
+			  "path": "images/album-art/TheJGeilsBand_OneLastKiss.png",
+			  "artist": "The J. Geils Band",
+			  "song": "One Last Kiss",
+			  "album": "Sanctuary",
+			  "generated_at": "2026-06-19T00:00:00Z"
+			},
+			{
+			  "id": "black-paisley-100-million-reasons",
+			  "filename": "BlackPaisley_100MillionReasons.png",
+			  "path": "images/album-art/BlackPaisley_100MillionReasons.png",
+			  "artist": "Black Paisley",
+			  "song": "100 Million Reasons",
+			  "album": "100 Million Reasons - Single",
+			  "generated_at": "2026-06-19T00:00:00Z"
+			},
+			{
+			  "id": "boss-martians-heard-what-you-said",
+			  "filename": "BossMartians_HeardWhatYouSaid.png",
+			  "path": "images/album-art/BossMartians_HeardWhatYouSaid.png",
+			  "artist": "Boss Martians",
+			  "song": "Heard What You Said",
+			  "album": "Making the Rounds",
+			  "generated_at": "2026-06-19T00:00:00Z"
+			},
+			{
+			  "id": "three-dog-night-shambala",
+			  "filename": "ThreeDogNight_Shambala.png",
+			  "path": "images/album-art/ThreeDogNight_Shambala.png",
+			  "artist": "Three Dog Night",
+			  "song": "Shambala",
+			  "album": "Cyan",
+			  "generated_at": "2026-06-19T00:00:00Z"
+			},
+			{
+			  "id": "journey-never-walk-away",
+			  "filename": "Journey_NeverWalkAway.png",
+			  "path": "images/album-art/Journey_NeverWalkAway.png",
+			  "artist": "Journey",
+			  "song": "Never Walk Away",
+			  "album": "Revelation",
+			  "generated_at": "2026-06-19T00:00:00Z"
+			},
+			{
+			  "id": "the-shivvers-no-substitute",
+			  "filename": "TheShivvers_NoSubstitute.png",
+			  "path": "images/album-art/TheShivvers_NoSubstitute.png",
+			  "artist": "The Shivvers",
+			  "song": "No Substitute",
+			  "album": "Lost Hits from Milwaukee's First Family of Powerpop 1979-82",
+			  "generated_at": "2026-06-19T00:00:00Z"
+			},
+			{
+			  "id": "fountains-of-wayne-maureen",
+			  "filename": "FountainsOfWayne_Maureen.png",
+			  "path": "images/album-art/FountainsOfWayne_Maureen.png",
+			  "artist": "Fountains of Wayne",
+			  "song": "Maureen",
+			  "album": "Out-of-State Plates",
+			  "generated_at": "2026-06-19T00:00:00Z"
+			},
+			{
+			  "id": "sahara-hotnights-cheek-to-cheek",
+			  "filename": "SaharaHotnights_CheekToCheek.png",
+			  "path": "images/album-art/SaharaHotnights_CheekToCheek.png",
+			  "artist": "Sahara Hotnights",
+			  "song": "Cheek to Cheek",
+			  "album": "What If Leaving Is a Loving Thing",
+			  "generated_at": "2026-06-19T00:00:00Z"
+			},
+			{
+			  "id": "sahara-hotnights-visit-to-vienna",
+			  "filename": "SaharaHotnights_VisitToVienna.png",
+			  "path": "images/album-art/SaharaHotnights_VisitToVienna.png",
+			  "artist": "Sahara Hotnights",
+			  "song": "Visit to Vienna",
+			  "album": "What If Leaving Is a Loving Thing",
+			  "generated_at": "2026-06-19T00:00:00Z"
+			},
+			{
+			  "id": "vangelis-blade-runner-blues",
+			  "filename": "Vangelis_BladeRunnerBlues.png",
+			  "path": "images/album-art/Vangelis_BladeRunnerBlues.png",
+			  "artist": "Vangelis",
+			  "song": "Blade Runner Blues",
+			  "album": "Blade Runner (Music from the Original Soundtrack)",
+			  "generated_at": "2026-06-19T00:00:00Z"
+			},
+			{
+			  "id": "silverada-you-look-good-in-neon",
+			  "filename": "Silverada_YouLookGoodInNeon.png",
+			  "path": "images/album-art/Silverada_YouLookGoodInNeon.png",
+			  "artist": "Silverada",
+			  "song": "You Look Good in Neon",
+			  "album": "Cheap Silver and Solid Country Gold",
+			  "generated_at": "2026-06-19T00:00:00Z"
+			},
+			{
+			  "id": "the-posies-golden-blunders",
+			  "filename": "ThePosies_GoldenBlunders.png",
+			  "path": "images/album-art/ThePosies_GoldenBlunders.png",
+			  "artist": "The Posies",
+			  "song": "Golden Blunders",
+			  "album": "Dear 23",
+			  "generated_at": "2026-06-19T00:00:00Z"
+			},
+			{
+			  "id": "the-ks-glass-towns",
+			  "filename": "TheKs_GlassTowns.png",
+			  "path": "images/album-art/TheKs_GlassTowns.png",
+			  "artist": "The K's",
+			  "song": "Glass Towns",
+			  "album": "Glass Towns - Single",
+			  "generated_at": "2026-06-19T00:00:00Z"
+			},
+			{
+			  "id": "the-struts-black-swan",
+			  "filename": "TheStruts_BlackSwan.png",
+			  "path": "images/album-art/TheStruts_BlackSwan.png",
+			  "artist": "The Struts",
+			  "song": "Black Swan",
+			  "album": "Everybody Wants",
+			  "generated_at": "2026-06-19T00:00:00Z"
+			},
+			{
+			  "id": "brother-firetribe-thunder-rising",
+			  "filename": "BrotherFiretribe_ThunderRising.png",
+			  "path": "images/album-art/BrotherFiretribe_ThunderRising.png",
+			  "artist": "Brother Firetribe",
+			  "song": "Thunder Rising",
+			  "album": "Thunder Rising - Single",
+			  "generated_at": "2026-06-19T00:00:00Z"
+			},
+			{
+			  "id": "mitch-malloy-anything-at-all",
+			  "filename": "MitchMalloy_AnythingAtAll.png",
+			  "path": "images/album-art/MitchMalloy_AnythingAtAll.png",
+			  "artist": "Mitch Malloy",
+			  "song": "Anything at All",
+			  "album": "Mitch Malloy",
+			  "generated_at": "2026-06-19T00:00:00Z"
+			},
+			{
+			  "id": "dua-lipa-break-my-heart",
+			  "filename": "DuaLipa_BreakMyHeart.png",
+			  "path": "images/album-art/DuaLipa_BreakMyHeart.png",
+			  "artist": "Dua Lipa",
+			  "song": "Break My Heart",
+			  "album": "Future Nostalgia",
+			  "generated_at": "2026-06-23T00:00:00Z"
+			},
+			{
+			  "id": "the-night-flight-orchestra-you-belong-to-the-night",
+			  "filename": "TheNightFlightOrchestra_YouBelongToTheNight.png",
+			  "path": "images/album-art/TheNightFlightOrchestra_YouBelongToTheNight.png",
+			  "artist": "The Night Flight Orchestra",
+			  "song": "You Belong to the Night",
+			  "album": "Aeromantic II",
+			  "generated_at": "2026-06-23T00:00:00Z"
+			},
+			{
+			  "id": "the-night-flight-orchestra-living-for-the-nighttime",
+			  "filename": "TheNightFlightOrchestra_LivingForTheNighttime.png",
+			  "path": "images/album-art/TheNightFlightOrchestra_LivingForTheNighttime.png",
+			  "artist": "The Night Flight Orchestra",
+			  "song": "Living for the Nighttime",
+			  "album": "Skyline Whispers",
+			  "generated_at": "2026-06-23T00:00:00Z"
+			},
+			{
+			  "id": "tyketto-forever-young",
+			  "filename": "Tyketto_ForeverYoung.png",
+			  "path": "images/album-art/Tyketto_ForeverYoung.png",
+			  "artist": "Tyketto",
+			  "song": "Forever Young",
+			  "album": "Don't Come Easy",
+			  "generated_at": "2026-06-23T00:00:00Z"
+			},
+			{
+			  "id": "the-slugs-well-get-through",
+			  "filename": "TheSlugs_WellGetThrough.png",
+			  "path": "images/album-art/TheSlugs_WellGetThrough.png",
+			  "artist": "The Slugs",
+			  "song": "We'll Get Through",
+			  "album": "Fort Fun",
+			  "generated_at": "2026-06-23T00:00:00Z"
+			},
+			{
+			  "id": "tiny-stills-everything-is-going-great",
+			  "filename": "TinyStills_EverythingIsGoingGreat.png",
+			  "path": "images/album-art/TinyStills_EverythingIsGoingGreat.png",
+			  "artist": "Tiny Stills",
+			  "song": "Everything Is Going Great",
+			  "album": "Tiny Stills / Odd Robot Split",
+			  "generated_at": "2026-06-23T00:00:00Z"
+			},
+			{
+			  "id": "imelda-may-made-to-love",
+			  "filename": "ImeldaMay_MadeToLove.png",
+			  "path": "images/album-art/ImeldaMay_MadeToLove.png",
+			  "artist": "Imelda May",
+			  "song": "Made to Love",
+			  "album": "11 Past the Hour",
+			  "generated_at": "2026-06-23T00:00:00Z"
+			},
+			{
+			  "id": "art-nation-need-you-to-understand",
+			  "filename": "ArtNation_NeedYouToUnderstand.png",
+			  "path": "images/album-art/ArtNation_NeedYouToUnderstand.png",
+			  "artist": "Art Nation",
+			  "song": "Need You to Understand",
+			  "album": "Revolution",
+			  "generated_at": "2026-06-23T00:00:00Z"
+			},
+			{
+			  "id": "the-empty-hearts-well-look-at-you",
+			  "filename": "TheEmptyHearts_WellLookAtYou.png",
+			  "path": "images/album-art/TheEmptyHearts_WellLookAtYou.png",
+			  "artist": "The Empty Hearts",
+			  "song": "Well, Look at You",
+			  "album": "The Second Album",
+			  "generated_at": "2026-06-23T00:00:00Z"
+			},
+			{
+			  "id": "the-night-flight-orchestra-california-morning",
+			  "filename": "TheNightFlightOrchestra_CaliforniaMorning.png",
+			  "path": "images/album-art/TheNightFlightOrchestra_CaliforniaMorning.png",
+			  "artist": "The Night Flight Orchestra",
+			  "song": "California Morning",
+			  "album": "Internal Affairs",
+			  "generated_at": "2026-06-23T00:00:00Z"
+			},
+			{
+			  "id": "the-night-flight-orchestra-demon-princess",
+			  "filename": "TheNightFlightOrchestra_DemonPrincess.png",
+			  "path": "images/album-art/TheNightFlightOrchestra_DemonPrincess.png",
+			  "artist": "The Night Flight Orchestra",
+			  "song": "Demon Princess",
+			  "album": "Skyline Whispers",
+			  "generated_at": "2026-06-23T00:00:00Z"
+			},
+			{
+			  "id": "the-night-flight-orchestra-stiletto",
+			  "filename": "TheNightFlightOrchestra_Stiletto.png",
+			  "path": "images/album-art/TheNightFlightOrchestra_Stiletto.png",
+			  "artist": "The Night Flight Orchestra",
+			  "song": "Stiletto",
+			  "album": "Skyline Whispers",
+			  "generated_at": "2026-06-23T00:00:00Z"
+			},
+			{
+			  "id": "the-night-flight-orchestra-lady-jade",
+			  "filename": "TheNightFlightOrchestra_LadyJade.png",
+			  "path": "images/album-art/TheNightFlightOrchestra_LadyJade.png",
+			  "artist": "The Night Flight Orchestra",
+			  "song": "Lady Jade",
+			  "album": "Skyline Whispers",
+			  "generated_at": "2026-06-23T00:00:00Z"
+			},
+			{
+			  "id": "the-night-flight-orchestra-spanish-ghosts",
+			  "filename": "TheNightFlightOrchestra_SpanishGhosts.png",
+			  "path": "images/album-art/TheNightFlightOrchestra_SpanishGhosts.png",
+			  "artist": "The Night Flight Orchestra",
+			  "song": "Spanish Ghosts",
+			  "album": "Skyline Whispers",
+			  "generated_at": "2026-06-23T00:00:00Z"
+			},
+			{
+			  "id": "the-night-flight-orchestra-skyline-whispers",
+			  "filename": "TheNightFlightOrchestra_SkylineWhispers.png",
+			  "path": "images/album-art/TheNightFlightOrchestra_SkylineWhispers.png",
+			  "artist": "The Night Flight Orchestra",
+			  "song": "Skyline Whispers",
+			  "album": "Skyline Whispers",
+			  "generated_at": "2026-06-23T00:00:00Z"
+			},
+			{
+			  "id": "the-night-flight-orchestra-roads-less-traveled",
+			  "filename": "TheNightFlightOrchestra_RoadsLessTraveled.png",
+			  "path": "images/album-art/TheNightFlightOrchestra_RoadsLessTraveled.png",
+			  "artist": "The Night Flight Orchestra",
+			  "song": "Roads Less Traveled",
+			  "album": "Skyline Whispers",
+			  "generated_at": "2026-06-23T00:00:00Z"
+			},
+			{
+			  "id": "the-night-flight-orchestra-west-ruth-ave",
+			  "filename": "TheNightFlightOrchestra_WestRuthAve.png",
+			  "path": "images/album-art/TheNightFlightOrchestra_WestRuthAve.png",
+			  "artist": "The Night Flight Orchestra",
+			  "song": "West Ruth Ave",
+			  "album": "Internal Affairs",
+			  "generated_at": "2026-06-23T00:00:00Z"
+			},
+			{
+			  "id": "the-night-flight-orchestra-transatlantic-blues",
+			  "filename": "TheNightFlightOrchestra_TransatlanticBlues.png",
+			  "path": "images/album-art/TheNightFlightOrchestra_TransatlanticBlues.png",
+			  "artist": "The Night Flight Orchestra",
+			  "song": "Transatlantic Blues",
+			  "album": "Internal Affairs",
+			  "generated_at": "2026-06-23T00:00:00Z"
+			},
+			{
+			  "id": "the-night-flight-orchestra-1998",
+			  "filename": "TheNightFlightOrchestra_1998.png",
+			  "path": "images/album-art/TheNightFlightOrchestra_1998.png",
+			  "artist": "The Night Flight Orchestra",
+			  "song": "1998",
+			  "album": "Internal Affairs",
+			  "generated_at": "2026-06-23T00:00:00Z"
+			},
+			{
+			  "id": "the-night-flight-orchestra-stella-aint-no-dove",
+			  "filename": "TheNightFlightOrchestra_StellaAintNoDove.png",
+			  "path": "images/album-art/TheNightFlightOrchestra_StellaAintNoDove.png",
+			  "artist": "The Night Flight Orchestra",
+			  "song": "Stella Ain't no Dove",
+			  "album": "Internal Affairs",
+			  "generated_at": "2026-06-23T00:00:00Z"
+			},
+			{
+			  "id": "the-night-flight-orchestra-space-whisperer",
+			  "filename": "TheNightFlightOrchestra_SpaceWhisperer.png",
+			  "path": "images/album-art/TheNightFlightOrchestra_SpaceWhisperer.png",
+			  "artist": "The Night Flight Orchestra",
+			  "song": "Space Whisperer",
+			  "album": "Amber Galactic",
+			  "generated_at": "2026-06-23T00:00:00Z"
+			},
+			{
+			  "id": "the-night-flight-orchestra-saturn-in-velvet",
+			  "filename": "TheNightFlightOrchestra_SaturnInVelvet.png",
+			  "path": "images/album-art/TheNightFlightOrchestra_SaturnInVelvet.png",
+			  "artist": "The Night Flight Orchestra",
+			  "song": "Saturn in Velvet",
+			  "album": "Amber Galactic",
+			  "generated_at": "2026-06-23T00:00:00Z"
+			},
+			{
+			  "id": "the-night-flight-orchestra-montreal-midnight-supply",
+			  "filename": "TheNightFlightOrchestra_MontrealMidnightSupply.png",
+			  "path": "images/album-art/TheNightFlightOrchestra_MontrealMidnightSupply.png",
+			  "artist": "The Night Flight Orchestra",
+			  "song": "Montreal Midnight Supply",
+			  "album": "Internal Affairs",
+			  "generated_at": "2026-06-23T00:00:00Z"
+			},
+			{
+			  "id": "the-night-flight-orchestra-last-of-the-independent-romantics",
+			  "filename": "TheNightFlightOrchestra_LastOfTheIndependentRomantics.png",
+			  "path": "images/album-art/TheNightFlightOrchestra_LastOfTheIndependentRomantics.png",
+			  "artist": "The Night Flight Orchestra",
+			  "song": "Last of the Independent Romantics",
+			  "album": "Sometimes The World Ain't Enough",
+			  "generated_at": "2026-06-23T00:00:00Z"
+			},
+			{
+			  "id": "the-night-flight-orchestra-pretty-thing-closing-in",
+			  "filename": "TheNightFlightOrchestra_PrettyThingClosingIn.png",
+			  "path": "images/album-art/TheNightFlightOrchestra_PrettyThingClosingIn.png",
+			  "artist": "The Night Flight Orchestra",
+			  "song": "Pretty Thing Closing In",
+			  "album": "Sometimes The World Ain't Enough",
+			  "generated_at": "2026-06-23T00:00:00Z"
+			},
+			{
+			  "id": "the-night-flight-orchestra-cant-be-that-bad",
+			  "filename": "TheNightFlightOrchestra_CantBeThatBad.png",
+			  "path": "images/album-art/TheNightFlightOrchestra_CantBeThatBad.png",
+			  "artist": "The Night Flight Orchestra",
+			  "song": "Can't be that Bad",
+			  "album": "Sometimes The World Ain't Enough",
+			  "generated_at": "2026-06-23T00:00:00Z"
+			},
+			{
+			  "id": "the-night-flight-orchestra-lovers-in-the-rain",
+			  "filename": "TheNightFlightOrchestra_LoversInTheRain.png",
+			  "path": "images/album-art/TheNightFlightOrchestra_LoversInTheRain.png",
+			  "artist": "The Night Flight Orchestra",
+			  "song": "Lovers in the Rain",
+			  "album": "Sometimes The World Ain't Enough",
+			  "generated_at": "2026-06-23T00:00:00Z"
 			}
                ]
 }
