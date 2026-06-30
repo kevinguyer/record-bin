@@ -2625,6 +2625,78 @@
 			  "song": "Lucky Star",
 			  "album": "Superstar Car Wash",
 			  "generated_at": "2026-06-29T00:00:00Z"
+			},
+			{
+			  "id": "benny-mardones-into-the-night",
+			  "filename": "BennyMardones_IntoTheNight.png",
+			  "path": "images/album-art/BennyMardones_IntoTheNight.png",
+			  "artist": "Benny Mardones",
+			  "song": "Into the Night",
+			  "album": "Never Run Never Hide",
+			  "generated_at": "2026-06-30T00:00:00Z"
+			},
+			{
+			  "id": "del-amitri-always-the-last-to-know",
+			  "filename": "DelAmitri_AlwaysTheLastToKnow.png",
+			  "path": "images/album-art/DelAmitri_AlwaysTheLastToKnow.png",
+			  "artist": "Del Amitri",
+			  "song": "Always the Last to Know",
+			  "album": "Change Everything",
+			  "generated_at": "2026-06-30T00:00:00Z"
+			},
+			{
+			  "id": "a-ha-take-on-me",
+			  "filename": "a-ha_TakeOnMe.png",
+			  "path": "images/album-art/a-ha_TakeOnMe.png",
+			  "artist": "a-ha",
+			  "song": "Take on Me",
+			  "album": "Hunting High and Low",
+			  "generated_at": "2026-06-30T00:00:00Z"
+			},
+			{
+			  "id": "talk-talk-its-my-life",
+			  "filename": "TalkTalk_ItsMyLife.png",
+			  "path": "images/album-art/TalkTalk_ItsMyLife.png",
+			  "artist": "Talk Talk",
+			  "song": "It's My Life",
+			  "album": "It's My Life",
+			  "generated_at": "2026-06-30T00:00:00Z"
+			},
+			{
+			  "id": "the-church-reptile",
+			  "filename": "TheChurch_Reptile.png",
+			  "path": "images/album-art/TheChurch_Reptile.png",
+			  "artist": "The Church",
+			  "song": "Reptile",
+			  "album": "Starfish",
+			  "generated_at": "2026-06-30T00:00:00Z"
+			},
+			{
+			  "id": "the-church-under-the-milky-way",
+			  "filename": "TheChurch_UnderTheMilkyWay.png",
+			  "path": "images/album-art/TheChurch_UnderTheMilkyWay.png",
+			  "artist": "The Church",
+			  "song": "Under the Milky Way",
+			  "album": "Starfish",
+			  "generated_at": "2026-06-30T00:00:00Z"
+			},
+			{
+			  "id": "til-tuesday-voices-carry",
+			  "filename": "TilTuesday_VoicesCarry.png",
+			  "path": "images/album-art/TilTuesday_VoicesCarry.png",
+			  "artist": "'Til Tuesday",
+			  "song": "Voices Carry",
+			  "album": "Voices Carry",
+			  "generated_at": "2026-06-30T00:00:00Z"
+			},
+			{
+			  "id": "when-in-rome-the-promise",
+			  "filename": "WhenInRome_ThePromise.png",
+			  "path": "images/album-art/WhenInRome_ThePromise.png",
+			  "artist": "When in Rome",
+			  "song": "The Promise",
+			  "album": "When in Rome",
+			  "generated_at": "2026-06-30T00:00:00Z"
 			}
                ]
 }
