@@ -2256,6 +2256,375 @@
 			  "song": "Lovers in the Rain",
 			  "album": "Sometimes The World Ain't Enough",
 			  "generated_at": "2026-06-23T00:00:00Z"
+			},
+			{
+			  "id": "ramones-i-want-to-be-sedated",
+			  "filename": "Ramones_IWantToBeSedated.png",
+			  "path": "images/album-art/Ramones_IWantToBeSedated.png",
+			  "artist": "Ramones",
+			  "song": "I Want to be Sedated",
+			  "album": "Road to Ruin",
+			  "generated_at": "2026-06-29T00:00:00Z"
+			},
+			{
+			  "id": "ramones-she-talks-to-rainbows",
+			  "filename": "Ramones_SheTalksToRainbows.png",
+			  "path": "images/album-art/Ramones_SheTalksToRainbows.png",
+			  "artist": "Ramones",
+			  "song": "She Talks to Rainbows",
+			  "album": "¡Adios Amigos!",
+			  "generated_at": "2026-06-29T00:00:00Z"
+			},
+			{
+			  "id": "soft-play-working-title",
+			  "filename": "SOFTPLAY_WorkingTitle.png",
+			  "path": "images/album-art/SOFTPLAY_WorkingTitle.png",
+			  "artist": "SOFT PLAY",
+			  "song": "Working Title",
+			  "album": "HEAVY JELLY",
+			  "generated_at": "2026-06-29T00:00:00Z"
+			},
+			{
+			  "id": "soft-play-cheer-up-london",
+			  "filename": "SOFTPLAY_CheerUpLondon.png",
+			  "path": "images/album-art/SOFTPLAY_CheerUpLondon.png",
+			  "artist": "SOFT PLAY",
+			  "song": "Cheer Up London",
+			  "album": "Are You Satisfied?",
+			  "generated_at": "2026-06-29T00:00:00Z"
+			},
+			{
+			  "id": "soft-play-the-hunter",
+			  "filename": "SOFTPLAY_TheHunter.png",
+			  "path": "images/album-art/SOFTPLAY_TheHunter.png",
+			  "artist": "SOFT PLAY",
+			  "song": "The Hunter",
+			  "album": "Are You Satisfied?",
+			  "generated_at": "2026-06-29T00:00:00Z"
+			},
+			{
+			  "id": "soft-play-everything-and-nothing",
+			  "filename": "SOFTPLAY_EverythingAndNothing.png",
+			  "path": "images/album-art/SOFTPLAY_EverythingAndNothing.png",
+			  "artist": "SOFT PLAY",
+			  "song": "Everything and Nothing",
+			  "album": "HEAVY JELLY",
+			  "generated_at": "2026-06-29T00:00:00Z"
+			},
+			{
+			  "id": "soft-play-sugar-coated-bitter-truth",
+			  "filename": "SOFTPLAY_SugarCoatedBitterTruth.png",
+			  "path": "images/album-art/SOFTPLAY_SugarCoatedBitterTruth.png",
+			  "artist": "SOFT PLAY",
+			  "song": "Sugar Coated Bitter Truth",
+			  "album": "Sugar Coated Bitter Truth",
+			  "generated_at": "2026-06-29T00:00:00Z"
+			},
+			{
+			  "id": "soft-play-white-knuckle-ride",
+			  "filename": "SOFTPLAY_WhiteKnuckleRide.png",
+			  "path": "images/album-art/SOFTPLAY_WhiteKnuckleRide.png",
+			  "artist": "SOFT PLAY",
+			  "song": "White Knuckle Ride",
+			  "album": "Sugar Coated Bitter Truth",
+			  "generated_at": "2026-06-29T00:00:00Z"
+			},
+			{
+			  "id": "soft-play-mirror-muscles",
+			  "filename": "SOFTPLAY_MirrorMuscles.png",
+			  "path": "images/album-art/SOFTPLAY_MirrorMuscles.png",
+			  "artist": "SOFT PLAY",
+			  "song": "Mirror Muscles",
+			  "album": "HEAVY JELLY",
+			  "generated_at": "2026-06-29T00:00:00Z"
+			},
+			{
+			  "id": "idles-gift-horse",
+			  "filename": "IDLES_GiftHorse.png",
+			  "path": "images/album-art/IDLES_GiftHorse.png",
+			  "artist": "IDLES",
+			  "song": "Gift Horse",
+			  "album": "TANGK",
+			  "generated_at": "2026-06-29T00:00:00Z"
+			},
+			{
+			  "id": "idles-dancer",
+			  "filename": "IDLES_Dancer.png",
+			  "path": "images/album-art/IDLES_Dancer.png",
+			  "artist": "IDLES",
+			  "song": "Dancer",
+			  "album": "TANGK",
+			  "generated_at": "2026-06-29T00:00:00Z"
+			},
+			{
+			  "id": "idles-never-fight-a-man-with-a-perm",
+			  "filename": "IDLES_NeverFightAManWithAPerm.png",
+			  "path": "images/album-art/IDLES_NeverFightAManWithAPerm.png",
+			  "artist": "IDLES",
+			  "song": "Never Fight a Man With a Perm",
+			  "album": "Joy as an Act of Resistance",
+			  "generated_at": "2026-06-29T00:00:00Z"
+			},
+			{
+			  "id": "touche-amore-nobodys",
+			  "filename": "ToucheAmore_Nobodys.png",
+			  "path": "images/album-art/ToucheAmore_Nobodys.png",
+			  "artist": "Touche Amore",
+			  "song": "Nobody's",
+			  "album": "Spiral in a Straight Line",
+			  "generated_at": "2026-06-29T00:00:00Z"
+			},
+			{
+			  "id": "dance-hall-crashers-shelley",
+			  "filename": "DanceHallCrashers_Shelley.png",
+			  "path": "images/album-art/DanceHallCrashers_Shelley.png",
+			  "artist": "Dance Hall Crashers",
+			  "song": "Shelley",
+			  "album": "The Old Record",
+			  "generated_at": "2026-06-29T00:00:00Z"
+			},
+			{
+			  "id": "dance-hall-crashers-dont-wanna-behave",
+			  "filename": "DanceHallCrashers_DontWannaBehave.png",
+			  "path": "images/album-art/DanceHallCrashers_DontWannaBehave.png",
+			  "artist": "Dance Hall Crashers",
+			  "song": "Don't Wanna Behave",
+			  "album": "Lockjaw",
+			  "generated_at": "2026-06-29T00:00:00Z"
+			},
+			{
+			  "id": "dance-hall-crashers-good-for-nothin",
+			  "filename": "DanceHallCrashers_GoodForNothin.png",
+			  "path": "images/album-art/DanceHallCrashers_GoodForNothin.png",
+			  "artist": "Dance Hall Crashers",
+			  "song": "Good For Nothin",
+			  "album": "Lockjaw",
+			  "generated_at": "2026-06-29T00:00:00Z"
+			},
+			{
+			  "id": "bad-religion-sorrow",
+			  "filename": "BadReligion_Sorrow.png",
+			  "path": "images/album-art/BadReligion_Sorrow.png",
+			  "artist": "Bad Religion",
+			  "song": "Sorrow",
+			  "album": "The Process of Belief",
+			  "generated_at": "2026-06-29T00:00:00Z"
+			},
+			{
+			  "id": "bad-religion-infected",
+			  "filename": "BadReligion_Infected.png",
+			  "path": "images/album-art/BadReligion_Infected.png",
+			  "artist": "Bad Religion",
+			  "song": "Infected",
+			  "album": "Stranger Than Fiction",
+			  "generated_at": "2026-06-29T00:00:00Z"
+			},
+			{
+			  "id": "bad-religion-21st-century-digital-boy",
+			  "filename": "BadReligion_21stCenturyDigitalBoy.png",
+			  "path": "images/album-art/BadReligion_21stCenturyDigitalBoy.png",
+			  "artist": "Bad Religion",
+			  "song": "21st Century (Digital Boy)",
+			  "album": "Against the Grain",
+			  "generated_at": "2026-06-29T00:00:00Z"
+			},
+			{
+			  "id": "bad-religion-stranger-than-fiction",
+			  "filename": "BadReligion_StrangerThanFiction.png",
+			  "path": "images/album-art/BadReligion_StrangerThanFiction.png",
+			  "artist": "Bad Religion",
+			  "song": "Stranger Than Fiction",
+			  "album": "Stranger Than Fiction",
+			  "generated_at": "2026-06-29T00:00:00Z"
+			},
+			{
+			  "id": "hoodoo-gurus-another-world",
+			  "filename": "HoodooGurus_AnotherWorld.png",
+			  "path": "images/album-art/HoodooGurus_AnotherWorld.png",
+			  "artist": "Hoodoo Gurus",
+			  "song": "Another World",
+			  "album": "Mars Needs Guitars!",
+			  "generated_at": "2026-06-29T00:00:00Z"
+			},
+			{
+			  "id": "the-smithereens-crazy-mixed-up-kid",
+			  "filename": "TheSmithereens_CrazyMixedUpKid.png",
+			  "path": "images/album-art/TheSmithereens_CrazyMixedUpKid.png",
+			  "artist": "The Smithereens",
+			  "song": "Crazy Mixed-Up Kid",
+			  "album": "Green Thoughts",
+			  "generated_at": "2026-06-29T00:00:00Z"
+			},
+			{
+			  "id": "the-tories-not-what-it-appears",
+			  "filename": "TheTories_NotWhatItAppears.png",
+			  "path": "images/album-art/TheTories_NotWhatItAppears.png",
+			  "artist": "The Tories",
+			  "song": "Not What it Appears",
+			  "album": "Wonderful Life",
+			  "generated_at": "2026-06-29T00:00:00Z"
+			},
+			{
+			  "id": "too-much-joy-long-haired-guys-from-england",
+			  "filename": "TooMuchJoy_LongHairedGuysFromEngland.png",
+			  "path": "images/album-art/TooMuchJoy_LongHairedGuysFromEngland.png",
+			  "artist": "Too Much Joy",
+			  "song": "Long Haired Guys from England",
+			  "album": "Son of Sam I Am",
+			  "generated_at": "2026-06-29T00:00:00Z"
+			},
+			{
+			  "id": "too-much-joy-the-pride-of-frankenstein",
+			  "filename": "TooMuchJoy_ThePrideOfFrankenstein.png",
+			  "path": "images/album-art/TooMuchJoy_ThePrideOfFrankenstein.png",
+			  "artist": "Too Much Joy",
+			  "song": "The Pride of Frankenstein",
+			  "album": "Son of Sam I Am",
+			  "generated_at": "2026-06-29T00:00:00Z"
+			},
+			{
+			  "id": "dada-dim",
+			  "filename": "Dada_Dim.png",
+			  "path": "images/album-art/Dada_Dim.png",
+			  "artist": "Dada",
+			  "song": "Dim",
+			  "album": "Puzzle",
+			  "generated_at": "2026-06-29T00:00:00Z"
+			},
+			{
+			  "id": "the-academy-is-attention",
+			  "filename": "TheAcademyIs_Attention.png",
+			  "path": "images/album-art/TheAcademyIs_Attention.png",
+			  "artist": "The Academy Is...",
+			  "song": "Attention",
+			  "album": "Almost Here",
+			  "generated_at": "2026-06-29T00:00:00Z"
+			},
+			{
+			  "id": "pollen-50-mph",
+			  "filename": "Pollen_50MPH.png",
+			  "path": "images/album-art/Pollen_50MPH.png",
+			  "artist": "Pollen",
+			  "song": "50 MPH",
+			  "album": "Peach Tree",
+			  "generated_at": "2026-06-29T00:00:00Z"
+			},
+			{
+			  "id": "simple-plan-id-do-anything",
+			  "filename": "SimplePlan_IdDoAnything.png",
+			  "path": "images/album-art/SimplePlan_IdDoAnything.png",
+			  "artist": "Simple Plan",
+			  "song": "I'd Do Anything",
+			  "album": "No Pads, No Helmets...Just Balls",
+			  "generated_at": "2026-06-29T00:00:00Z"
+			},
+			{
+			  "id": "courtney-jaye-cant-behave",
+			  "filename": "CourtneyJaye_CantBehave.png",
+			  "path": "images/album-art/CourtneyJaye_CantBehave.png",
+			  "artist": "Courtney Jaye",
+			  "song": "Can't Behave",
+			  "album": "Traveling Light",
+			  "generated_at": "2026-06-29T00:00:00Z"
+			},
+			{
+			  "id": "soul-asylum-all-is-well",
+			  "filename": "SoulAsylum_AllIsWell.png",
+			  "path": "images/album-art/SoulAsylum_AllIsWell.png",
+			  "artist": "Soul Asylum",
+			  "song": "All Is Well",
+			  "album": "The Silver Lining",
+			  "generated_at": "2026-06-29T00:00:00Z"
+			},
+			{
+			  "id": "art-nation-ghost-town",
+			  "filename": "ArtNation_GhostTown.png",
+			  "path": "images/album-art/ArtNation_GhostTown.png",
+			  "artist": "Art Nation",
+			  "song": "Ghost Town",
+			  "album": "Liberation",
+			  "generated_at": "2026-06-29T00:00:00Z"
+			},
+			{
+			  "id": "the-struts-put-your-money-on-me",
+			  "filename": "TheStruts_PutYourMoneyOnMe.png",
+			  "path": "images/album-art/TheStruts_PutYourMoneyOnMe.png",
+			  "artist": "The Struts",
+			  "song": "Put Your Money on Me",
+			  "album": "Everybody Wants",
+			  "generated_at": "2026-06-29T00:00:00Z"
+			},
+			{
+			  "id": "van-halen-panama",
+			  "filename": "VanHalen_Panama.png",
+			  "path": "images/album-art/VanHalen_Panama.png",
+			  "artist": "Van Halen",
+			  "song": "Panama",
+			  "album": "1984",
+			  "generated_at": "2026-06-29T00:00:00Z"
+			},
+			{
+			  "id": "coheed-and-cambria-away-we-go",
+			  "filename": "CoheedAndCambria_AwayWeGo.png",
+			  "path": "images/album-art/CoheedAndCambria_AwayWeGo.png",
+			  "artist": "Coheed and Cambria",
+			  "song": "Away We Go",
+			  "album": "The Afterman: Descension",
+			  "generated_at": "2026-06-29T00:00:00Z"
+			},
+			{
+			  "id": "drivin-n-cryin-around-the-block-again",
+			  "filename": "DrivinNCryin_AroundTheBlockAgain.png",
+			  "path": "images/album-art/DrivinNCryin_AroundTheBlockAgain.png",
+			  "artist": "Drivin N Cryin",
+			  "song": "Around the Block Again",
+			  "album": "Fly Me Courageous",
+			  "generated_at": "2026-06-29T00:00:00Z"
+			},
+			{
+			  "id": "as-fast-as-florida-sunshine",
+			  "filename": "AsFastAs_FloridaSunshine.png",
+			  "path": "images/album-art/AsFastAs_FloridaSunshine.png",
+			  "artist": "As Fast As",
+			  "song": "Florida Sunshine",
+			  "album": "Open Letter to the Damned",
+			  "generated_at": "2026-06-29T00:00:00Z"
+			},
+			{
+			  "id": "the-unforgiven-the-gauntlet",
+			  "filename": "TheUnforgiven_TheGauntlet.png",
+			  "path": "images/album-art/TheUnforgiven_TheGauntlet.png",
+			  "artist": "The Unforgiven",
+			  "song": "The Gauntlet",
+			  "album": "The Unforgiven",
+			  "generated_at": "2026-06-29T00:00:00Z"
+			},
+			{
+			  "id": "elton-john-kiss-the-bride",
+			  "filename": "EltonJohn_KissTheBride.png",
+			  "path": "images/album-art/EltonJohn_KissTheBride.png",
+			  "artist": "Elton John",
+			  "song": "Kiss the Bride",
+			  "album": "Too Low for Zero",
+			  "generated_at": "2026-06-29T00:00:00Z"
+			},
+			{
+			  "id": "no-more-kings-obey-the-groove",
+			  "filename": "NoMoreKings_ObeyTheGroove.png",
+			  "path": "images/album-art/NoMoreKings_ObeyTheGroove.png",
+			  "artist": "No More Kings",
+			  "song": "Obey the Groove",
+			  "album": "And the Flying Boombox",
+			  "generated_at": "2026-06-29T00:00:00Z"
+			},
+			{
+			  "id": "the-goo-goo-dolls-lucky-star",
+			  "filename": "TheGooGooDolls_LuckyStar.png",
+			  "path": "images/album-art/TheGooGooDolls_LuckyStar.png",
+			  "artist": "The Goo Goo Dolls",
+			  "song": "Lucky Star",
+			  "album": "Superstar Car Wash",
+			  "generated_at": "2026-06-29T00:00:00Z"
 			}
                ]
 }
