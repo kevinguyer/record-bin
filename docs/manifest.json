@@ -2697,6 +2697,178 @@
 			  "song": "The Promise",
 			  "album": "When in Rome",
 			  "generated_at": "2026-06-30T00:00:00Z"
+			},
+			{
+			  "id": "roger-clyne-the-peacemakers-beautiful-disaster",
+			  "filename": "RogerClyneThePeacemakers_BeautifulDisaster.png",
+			  "path": "images/album-art/RogerClyneThePeacemakers_BeautifulDisaster.png",
+			  "artist": "Roger Clyne & The Peacemakers",
+			  "song": "Beautiful Disaster",
+			  "album": "Honky Tonk Union",
+			  "generated_at": "2026-07-01T00:00:00Z"
+			},
+			{
+			  "id": "roger-clyne-the-peacemakers-city-girls",
+			  "filename": "RogerClyneThePeacemakers_CityGirls.png",
+			  "path": "images/album-art/RogerClyneThePeacemakers_CityGirls.png",
+			  "artist": "Roger Clyne & The Peacemakers",
+			  "song": "City Girls",
+			  "album": "Honky Tonk Union",
+			  "generated_at": "2026-07-01T00:00:00Z"
+			},
+			{
+			  "id": "roger-clyne-the-peacemakers-easy",
+			  "filename": "RogerClyneThePeacemakers_Easy.png",
+			  "path": "images/album-art/RogerClyneThePeacemakers_Easy.png",
+			  "artist": "Roger Clyne & The Peacemakers",
+			  "song": "Easy",
+			  "album": "Honky Tonk Union",
+			  "generated_at": "2026-07-01T00:00:00Z"
+			},
+			{
+			  "id": "roger-clyne-the-peacemakers-jack-vs-jose",
+			  "filename": "RogerClyneThePeacemakers_JackVsJose.png",
+			  "path": "images/album-art/RogerClyneThePeacemakers_JackVsJose.png",
+			  "artist": "Roger Clyne & The Peacemakers",
+			  "song": "Jack vs. Jose",
+			  "album": "Honky Tonk Union",
+			  "generated_at": "2026-07-01T00:00:00Z"
+			},
+			{
+			  "id": "roger-clyne-the-peacemakers-honky-tonk-union",
+			  "filename": "RogerClyneThePeacemakers_HonkyTonkUnion.png",
+			  "path": "images/album-art/RogerClyneThePeacemakers_HonkyTonkUnion.png",
+			  "artist": "Roger Clyne & The Peacemakers",
+			  "song": "Honky Tonk Union",
+			  "album": "Honky Tonk Union",
+			  "generated_at": "2026-07-01T00:00:00Z"
+			},
+			{
+			  "id": "roger-clyne-the-peacemakers-tell-yer-momma",
+			  "filename": "RogerClyneThePeacemakers_TellYerMomma.png",
+			  "path": "images/album-art/RogerClyneThePeacemakers_TellYerMomma.png",
+			  "artist": "Roger Clyne & The Peacemakers",
+			  "song": "Tell Yer Momma",
+			  "album": "Honky Tonk Union",
+			  "generated_at": "2026-07-01T00:00:00Z"
+			},
+			{
+			  "id": "roger-clyne-the-peacemakers-my-heart-is-a-ufo",
+			  "filename": "RogerClyneThePeacemakers_MyHeartIsAUFO.png",
+			  "path": "images/album-art/RogerClyneThePeacemakers_MyHeartIsAUFO.png",
+			  "artist": "Roger Clyne & The Peacemakers",
+			  "song": "My Heart is a UFO",
+			  "album": "Honky Tonk Union",
+			  "generated_at": "2026-07-01T00:00:00Z"
+			},
+			{
+			  "id": "roger-clyne-the-peacemakers-green-dumb",
+			  "filename": "RogerClyneThePeacemakers_GreenDumb.png",
+			  "path": "images/album-art/RogerClyneThePeacemakers_GreenDumb.png",
+			  "artist": "Roger Clyne & The Peacemakers",
+			  "song": "Green & Dumb",
+			  "album": "Honky Tonk Union",
+			  "generated_at": "2026-07-01T00:00:00Z"
+			},
+			{
+			  "id": "roger-clyne-the-peacemakers-never-thought",
+			  "filename": "RogerClyneThePeacemakers_NeverThought.png",
+			  "path": "images/album-art/RogerClyneThePeacemakers_NeverThought.png",
+			  "artist": "Roger Clyne & The Peacemakers",
+			  "song": "Never Thought",
+			  "album": "Honky Tonk Union",
+			  "generated_at": "2026-07-01T00:00:00Z"
+			},
+			{
+			  "id": "roger-clyne-the-peacemakers-tow-chain",
+			  "filename": "RogerClyneThePeacemakers_TowChain.png",
+			  "path": "images/album-art/RogerClyneThePeacemakers_TowChain.png",
+			  "artist": "Roger Clyne & The Peacemakers",
+			  "song": "Tow Chain",
+			  "album": "Honky Tonk Union",
+			  "generated_at": "2026-07-01T00:00:00Z"
+			},
+			{
+			  "id": "roger-clyne-the-peacemakers-americano",
+			  "filename": "RogerClyneThePeacemakers_Americano.png",
+			  "path": "images/album-art/RogerClyneThePeacemakers_Americano.png",
+			  "artist": "Roger Clyne & The Peacemakers",
+			  "song": "Americano",
+			  "album": "Americano!",
+			  "generated_at": "2026-07-01T00:00:00Z"
+			},
+			{
+			  "id": "roger-clyne-the-peacemakers-counterclockwise",
+			  "filename": "RogerClyneThePeacemakers_Counterclockwise.png",
+			  "path": "images/album-art/RogerClyneThePeacemakers_Counterclockwise.png",
+			  "artist": "Roger Clyne & The Peacemakers",
+			  "song": "Counterclockwise",
+			  "album": "¡Americano!",
+			  "generated_at": "2026-07-01T00:00:00Z"
+			},
+			{
+			  "id": "roger-clyne-the-peacemakers-i-dont-need-another-thrill",
+			  "filename": "RogerClyneThePeacemakers_IDontNeedAnotherThrill.png",
+			  "path": "images/album-art/RogerClyneThePeacemakers_IDontNeedAnotherThrill.png",
+			  "artist": "Roger Clyne & The Peacemakers",
+			  "song": "I Don't Need Another Thrill",
+			  "album": "¡Americano!",
+			  "generated_at": "2026-07-01T00:00:00Z"
+			},
+			{
+			  "id": "roger-clyne-the-peacemakers-leaky-little-boat",
+			  "filename": "RogerClyneThePeacemakers_LeakyLittleBoat.png",
+			  "path": "images/album-art/RogerClyneThePeacemakers_LeakyLittleBoat.png",
+			  "artist": "Roger Clyne & The Peacemakers",
+			  "song": "Leaky Little Boat",
+			  "album": "¡Americano!",
+			  "generated_at": "2026-07-01T00:00:00Z"
+			},
+			{
+			  "id": "roger-clyne-the-peacemakers-loco-to-stay-sane",
+			  "filename": "RogerClyneThePeacemakers_LocoToStaySane.png",
+			  "path": "images/album-art/RogerClyneThePeacemakers_LocoToStaySane.png",
+			  "artist": "Roger Clyne & The Peacemakers",
+			  "song": "Loco to Stay Sane",
+			  "album": "¡Americano!",
+			  "generated_at": "2026-07-01T00:00:00Z"
+			},
+			{
+			  "id": "roger-clyne-the-peacemakers-mexican-moonshine",
+			  "filename": "RogerClyneThePeacemakers_MexicanMoonshine.png",
+			  "path": "images/album-art/RogerClyneThePeacemakers_MexicanMoonshine.png",
+			  "artist": "Roger Clyne & The Peacemakers",
+			  "song": "Mexican Moonshine",
+			  "album": "¡Americano!",
+			  "generated_at": "2026-07-01T00:00:00Z"
+			},
+			{
+			  "id": "roger-clyne-the-peacemakers-love-come-lighten-my-load",
+			  "filename": "RogerClyneThePeacemakers_LoveComeLightenMyLoad.png",
+			  "path": "images/album-art/RogerClyneThePeacemakers_LoveComeLightenMyLoad.png",
+			  "artist": "Roger Clyne & The Peacemakers",
+			  "song": "Love, Come Lighten My Load",
+			  "album": "¡Americano!",
+			  "generated_at": "2026-07-01T00:00:00Z"
+			},
+			{
+			  "id": "roger-clyne-the-peacemakers-leave-an-open-door",
+			  "filename": "RogerClyneThePeacemakers_LeaveAnOpenDoor.png",
+			  "path": "images/album-art/RogerClyneThePeacemakers_LeaveAnOpenDoor.png",
+			  "artist": "Roger Clyne & The Peacemakers",
+			  "song": "Leave an Open Door",
+			  "album": "¡Americano!",
+			  "generated_at": "2026-07-01T00:00:00Z"
+			},
+			{
+			  "id": "roger-clyne-the-peacemakers-a-little-hungover-you",
+			  "filename": "RogerClyneThePeacemakers_ALittleHungoverYou.png",
+			  "path": "images/album-art/RogerClyneThePeacemakers_ALittleHungoverYou.png",
+			  "artist": "Roger Clyne & The Peacemakers",
+			  "song": "A Little Hungover You",
+			  "album": "¡Americano!",
+			  "generated_at": "2026-07-01T00:00:00Z"
 			}
+
                ]
 }
