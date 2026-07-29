@@ -2868,7 +2868,258 @@
 			  "song": "A Little Hungover You",
 			  "album": "¡Americano!",
 			  "generated_at": "2026-07-01T00:00:00Z"
+			},
+			{
+			  "id": "pat-benatar-shadows-of-the-night",
+			  "filename": "PatBenatar_ShadowsOfTheNight.png",
+			  "path": "images/album-art/PatBenatar_ShadowsOfTheNight.png",
+			  "artist": "Pat Benatar",
+			  "song": "Shadows of the Night",
+			  "album": "Get Nervous",
+			  "generated_at": "2026-07-29T00:00:00Z"
+			},
+			{
+			  "id": "sabrina-carpenter-espresso",
+			  "filename": "SabrinaCarpenter_Espresso.png",
+			  "path": "images/album-art/SabrinaCarpenter_Espresso.png",
+			  "artist": "Sabrina Carpenter",
+			  "song": "Espresso",
+			  "album": "Short n' Sweet",
+			  "generated_at": "2026-07-29T00:00:00Z"
+			},
+			{
+			  "id": "liz-phair-why-cant-i",
+			  "filename": "LizPhair_WhyCantI.png",
+			  "path": "images/album-art/LizPhair_WhyCantI.png",
+			  "artist": "Liz Phair",
+			  "song": "Why Can't I?",
+			  "album": "Liz Phair",
+			  "generated_at": "2026-07-29T00:00:00Z"
+			},
+			{
+			  "id": "the-paradox-do-me-like-that",
+			  "filename": "TheParadox_DoMeLikeThat.png",
+			  "path": "images/album-art/TheParadox_DoMeLikeThat.png",
+			  "artist": "The Paradox",
+			  "song": "Do Me Like That",
+			  "album": "Do Me Like That",
+			  "generated_at": "2026-07-29T00:00:00Z"
+			},
+			{
+			  "id": "alkaline-trio-calling-all-skeletons",
+			  "filename": "AlkalineTrio_CallingAllSkeletons.png",
+			  "path": "images/album-art/AlkalineTrio_CallingAllSkeletons.png",
+			  "artist": "Alkaline Trio",
+			  "song": "Calling All Skeletons",
+			  "album": "Agony & Irony",
+			  "generated_at": "2026-07-29T00:00:00Z"
+			},
+			{
+			  "id": "sum-41-underclass-hero",
+			  "filename": "Sum41_UnderclassHero.png",
+			  "path": "images/album-art/Sum41_UnderclassHero.png",
+			  "artist": "Sum 41",
+			  "song": "Underclass Hero",
+			  "album": "Underclass Hero",
+			  "generated_at": "2026-07-29T00:00:00Z"
+			},
+			{
+			  "id": "the-paradox-get-the-message",
+			  "filename": "TheParadox_GetTheMessage.png",
+			  "path": "images/album-art/TheParadox_GetTheMessage.png",
+			  "artist": "The Paradox",
+			  "song": "Get the Message",
+			  "album": "Get the Message",
+			  "generated_at": "2026-07-29T00:00:00Z"
+			},
+			{
+			  "id": "jimmy-eat-world-big-casino",
+			  "filename": "JimmyEatWorld_BigCasino.png",
+			  "path": "images/album-art/JimmyEatWorld_BigCasino.png",
+			  "artist": "Jimmy Eat World",
+			  "song": "Big Casino",
+			  "album": "Chase This Light",
+			  "generated_at": "2026-07-29T00:00:00Z"
+			},
+			{
+			  "id": "big-country-in-a-big-country",
+			  "filename": "BigCountry_InABigCountry.png",
+			  "path": "images/album-art/BigCountry_InABigCountry.png",
+			  "artist": "Big Country",
+			  "song": "In a Big Country",
+			  "album": "The Crossing",
+			  "generated_at": "2026-07-29T00:00:00Z"
+			},
+			{
+			  "id": "pixies-here-comes-your-man",
+			  "filename": "Pixies_HereComesYourMan.png",
+			  "path": "images/album-art/Pixies_HereComesYourMan.png",
+			  "artist": "Pixies",
+			  "song": "Here Comes Your Man",
+			  "album": "Doolittle",
+			  "generated_at": "2026-07-29T00:00:00Z"
+			},
+			{
+			  "id": "fugazi-waiting-room",
+			  "filename": "Fugazi_WaitingRoom.png",
+			  "path": "images/album-art/Fugazi_WaitingRoom.png",
+			  "artist": "Fugazi",
+			  "song": "Waiting Room",
+			  "album": "13 Songs",
+			  "generated_at": "2026-07-29T00:00:00Z"
+			},
+			{
+			  "id": "the-primitives-crash",
+			  "filename": "ThePrimitives_Crash.png",
+			  "path": "images/album-art/ThePrimitives_Crash.png",
+			  "artist": "The Primitives",
+			  "song": "Crash",
+			  "album": "Lovely",
+			  "generated_at": "2026-07-29T00:00:00Z"
+			},
+			{
+			  "id": "inxs-dont-change",
+			  "filename": "INXS_DontChange.png",
+			  "path": "images/album-art/INXS_DontChange.png",
+			  "artist": "INXS",
+			  "song": "Don't Change",
+			  "album": "Shabooh Shoobah",
+			  "generated_at": "2026-07-29T00:00:00Z"
+			},
+			{
+			  "id": "inxs-new-sensation",
+			  "filename": "INXS_NewSensation.png",
+			  "path": "images/album-art/INXS_NewSensation.png",
+			  "artist": "INXS",
+			  "song": "New Sensation",
+			  "album": "Kick",
+			  "generated_at": "2026-07-29T00:00:00Z"
+			},
+			{
+			  "id": "the-psychedelic-furs-pretty-in-pink",
+			  "filename": "ThePsychedelicFurs_PrettyInPink.png",
+			  "path": "images/album-art/ThePsychedelicFurs_PrettyInPink.png",
+			  "artist": "The Psychedelic Furs",
+			  "song": "Pretty in Pink",
+			  "album": "Talk Talk Talk",
+			  "generated_at": "2026-07-29T00:00:00Z"
+			},
+			{
+			  "id": "r-e-m-radio-free-europe",
+			  "filename": "REM_RadioFreeEurope.png",
+			  "path": "images/album-art/REM_RadioFreeEurope.png",
+			  "artist": "R.E.M.",
+			  "song": "Radio Free Europe",
+			  "album": "Murmur",
+			  "generated_at": "2026-07-29T00:00:00Z"
+			},
+			{
+			  "id": "squeeze-pulling-mussels-from-the-shell",
+			  "filename": "Squeeze_PullingMusselsFromTheShell.png",
+			  "path": "images/album-art/Squeeze_PullingMusselsFromTheShell.png",
+			  "artist": "Squeeze",
+			  "song": "Pulling Mussels (From The Shell)",
+			  "album": "Argybargy",
+			  "generated_at": "2026-07-29T00:00:00Z"
+			},
+			{
+			  "id": "the-smiths-how-soon-is-now",
+			  "filename": "TheSmiths_HowSoonIsNow.png",
+			  "path": "images/album-art/TheSmiths_HowSoonIsNow.png",
+			  "artist": "The Smiths",
+			  "song": "How Soon is Now?",
+			  "album": "Hatful of Hollow",
+			  "generated_at": "2026-07-29T00:00:00Z"
+			},
+			{
+			  "id": "sonic-youth-kool-thing",
+			  "filename": "SonicYouth_KoolThing.png",
+			  "path": "images/album-art/SonicYouth_KoolThing.png",
+			  "artist": "Sonic Youth",
+			  "song": "Kool Thing",
+			  "album": "Goo",
+			  "generated_at": "2026-07-29T00:00:00Z"
+			},
+			{
+			  "id": "david-bowie-blue-jean",
+			  "filename": "DavidBowie_BlueJean.png",
+			  "path": "images/album-art/DavidBowie_BlueJean.png",
+			  "artist": "David Bowie",
+			  "song": "Blue Jean",
+			  "album": "Tonight",
+			  "generated_at": "2026-07-29T00:00:00Z"
+			},
+			{
+			  "id": "the-cure-in-between-days",
+			  "filename": "TheCure_InBetweenDays.png",
+			  "path": "images/album-art/TheCure_InBetweenDays.png",
+			  "artist": "The Cure",
+			  "song": "In Between Days",
+			  "album": "The Head on the Door",
+			  "generated_at": "2026-07-29T00:00:00Z"
+			},
+			{
+			  "id": "the-hooters-and-we-danced",
+			  "filename": "TheHooters_AndWeDanced.png",
+			  "path": "images/album-art/TheHooters_AndWeDanced.png",
+			  "artist": "The Hooters",
+			  "song": "And We Danced",
+			  "album": "Nervous Night",
+			  "generated_at": "2026-07-29T00:00:00Z"
+			},
+			{
+			  "id": "the-hooters-all-you-zombies",
+			  "filename": "TheHooters_AllYouZombies.png",
+			  "path": "images/album-art/TheHooters_AllYouZombies.png",
+			  "artist": "The Hooters",
+			  "song": "All You Zombies",
+			  "album": "Nervous Night",
+			  "generated_at": "2026-07-29T00:00:00Z"
+			},
+			{
+			  "id": "the-stone-roses-i-wanna-be-adored",
+			  "filename": "TheStoneRoses_IWannaBeAdored.png",
+			  "path": "images/album-art/TheStoneRoses_IWannaBeAdored.png",
+			  "artist": "The Stone Roses",
+			  "song": "I Wanna Be Adored",
+			  "album": "The Stone Roses",
+			  "generated_at": "2026-07-29T00:00:00Z"
+			},
+			{
+			  "id": "siouxsie-and-the-banshees-cities-in-dust",
+			  "filename": "SiouxsieAndTheBanshees_CitiesInDust.png",
+			  "path": "images/album-art/SiouxsieAndTheBanshees_CitiesInDust.png",
+			  "artist": "Siouxsie and the Banshees",
+			  "song": "Cities in Dust",
+			  "album": "Tinderbox",
+			  "generated_at": "2026-07-29T00:00:00Z"
+			},
+			{
+			  "id": "split-enz-i-got-you",
+			  "filename": "SplitEnz_IGotYou.png",
+			  "path": "images/album-art/SplitEnz_IGotYou.png",
+			  "artist": "Split Enz",
+			  "song": "I Got You",
+			  "album": "True Colours",
+			  "generated_at": "2026-07-29T00:00:00Z"
+			},
+			{
+			  "id": "after-the-fire-der-kommissar",
+			  "filename": "AfterTheFire_DerKommissar.png",
+			  "path": "images/album-art/AfterTheFire_DerKommissar.png",
+			  "artist": "After the Fire",
+			  "song": "Der Kommissar",
+			  "album": "Der Kommissar",
+			  "generated_at": "2026-07-29T00:00:00Z"
+			},
+			{
+			  "id": "flock-of-seagulls-wishing-if-i-had-a-photograph-of-you",
+			  "filename": "FlockOfSeagulls_WishingIfIHadAPhotographOfYou.png",
+			  "path": "images/album-art/FlockOfSeagulls_WishingIfIHadAPhotographOfYou.png",
+			  "artist": "Flock of Seagulls",
+			  "song": "Wishing (If I Had a Photograph of You)",
+			  "album": "Listen",
+			  "generated_at": "2026-07-29T00:00:00Z"
 			}
-
                ]
 }
