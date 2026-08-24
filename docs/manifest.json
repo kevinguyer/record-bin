@@ -3120,6 +3120,196 @@
 			  "song": "Wishing (If I Had a Photograph of You)",
 			  "album": "Listen",
 			  "generated_at": "2026-07-29T00:00:00Z"
-			}
+			},
+      {
+        "id": "the-goo-goo-dolls-on-the-lie",
+        "filename": "TheGooGooDolls_OnTheLie.png",
+        "path": "images/album-art/TheGooGooDolls_OnTheLie.png",
+        "artist": "The Goo Goo Dolls",
+        "song": "On the Lie",
+        "album": "Superstar Car Wash",
+        "generated_at": "2026-08-19T00:00:00Z"
+      },
+      {
+        "id": "the-goo-goo-dolls-fallin-down",
+        "filename": "TheGooGooDolls_FallinDown.png",
+        "path": "images/album-art/TheGooGooDolls_FallinDown.png",
+        "artist": "The Goo Goo Dolls",
+        "song": "Fallin' Down",
+        "album": "Superstar Car Wash",
+        "generated_at": "2026-08-19T00:00:00Z"
+      },
+      {
+        "id": "the-goo-goo-dolls-lucky-star",
+        "filename": "TheGooGooDolls_LuckyStar.png",
+        "path": "images/album-art/TheGooGooDolls_LuckyStar.png",
+        "artist": "The Goo Goo Dolls",
+        "song": "Lucky Star",
+        "album": "Superstar Car Wash",
+        "generated_at": "2026-08-19T00:00:00Z"
+      },
+      {
+        "id": "the-goo-goo-dolls-we-are-the-normal",
+        "filename": "TheGooGooDolls_WeAreTheNormal.png",
+        "path": "images/album-art/TheGooGooDolls_WeAreTheNormal.png",
+        "artist": "The Goo Goo Dolls",
+        "song": "We are the Normal",
+        "album": "Superstar Car Wash",
+        "generated_at": "2026-08-19T00:00:00Z"
+      },
+      {
+        "id": "the-goo-goo-dolls-another-second-time-around",
+        "filename": "TheGooGooDolls_AnotherSecondTimeAround.png",
+        "path": "images/album-art/TheGooGooDolls_AnotherSecondTimeAround.png",
+        "artist": "The Goo Goo Dolls",
+        "song": "Another Second Time Around",
+        "album": "Superstar Car Wash",
+        "generated_at": "2026-08-19T00:00:00Z"
+      },
+      {
+        "id": "the-goo-goo-dolls-stop-the-world",
+        "filename": "TheGooGooDolls_StopTheWorld.png",
+        "path": "images/album-art/TheGooGooDolls_StopTheWorld.png",
+        "artist": "The Goo Goo Dolls",
+        "song": "Stop the World",
+        "album": "Superstar Car Wash",
+        "generated_at": "2026-08-19T00:00:00Z"
+      },
+      {
+        "id": "the-goo-goo-dolls-string-of-lies",
+        "filename": "TheGooGooDolls_StringOfLies.png",
+        "path": "images/album-art/TheGooGooDolls_StringOfLies.png",
+        "artist": "The Goo Goo Dolls",
+        "song": "String of Lies",
+        "album": "Superstar Car Wash",
+        "generated_at": "2026-08-19T00:00:00Z"
+      },
+      {
+        "id": "the-goo-goo-dolls-so-far-away",
+        "filename": "TheGooGooDolls_SoFarAway.png",
+        "path": "images/album-art/TheGooGooDolls_SoFarAway.png",
+        "artist": "The Goo Goo Dolls",
+        "song": "So Far Away",
+        "album": "Superstar Car Wash",
+        "generated_at": "2026-08-21T00:00:00Z"
+      },
+      {
+        "id": "the-goo-goo-dolls-cuz-youre-gone",
+        "filename": "TheGooGooDolls_CuzYoureGone.png",
+        "path": "images/album-art/TheGooGooDolls_CuzYoureGone.png",
+        "artist": "The Goo Goo Dolls",
+        "song": "Cuz You're Gone",
+        "album": "Superstar Car Wash",
+        "generated_at": "2026-08-21T00:00:00Z"
+      },
+      {
+        "id": "the-donnas-play-my-game",
+        "filename": "TheDonnas_PlayMyGame.png",
+        "path": "images/album-art/TheDonnas_PlayMyGame.png",
+        "artist": "The Donnas",
+        "song": "Play My Game",
+        "album": "Turn 21",
+        "generated_at": "2026-08-21T00:00:00Z"
+      },
+      {
+        "id": "the-donnas-dont-get-me-busted",
+        "filename": "TheDonnas_DontGetMeBusted.png",
+        "path": "images/album-art/TheDonnas_DontGetMeBusted.png",
+        "artist": "The Donnas",
+        "song": "Don't Get Me Busted",
+        "album": "The Donnas Turn 21",
+        "generated_at": "2026-08-21T00:00:00Z"
+      },
+      {
+        "id": "the-donnas-drivin-thru-my-heart",
+        "filename": "TheDonnas_DrivinThruMyHeart.png",
+        "path": "images/album-art/TheDonnas_DrivinThruMyHeart.png",
+        "artist": "The Donnas",
+        "song": "Drivin' Thru My Heart",
+        "album": "The Donnas Turn 21",
+        "generated_at": "2026-08-23T00:00:00Z"
+      },
+      {
+        "id": "europe-the-final-countdown",
+        "filename": "Europe_TheFinalCountdown.png",
+        "path": "images/album-art/Europe_TheFinalCountdown.png",
+        "artist": "Europe",
+        "song": "The Final Countdown",
+        "album": "The Final Countdown",
+        "generated_at": "2026-08-23T00:00:00Z"
+      },
+      {
+        "id": "ghost-cirice",
+        "filename": "Ghost_Cirice.png",
+        "path": "images/album-art/Ghost_Cirice.png",
+        "artist": "Ghost",
+        "song": "Cirice",
+        "album": "Meliora",
+        "generated_at": "2026-08-23T00:00:00Z"
+      },
+      {
+        "id": "ghost-lachryma",
+        "filename": "Ghost_Lachryma.png",
+        "path": "images/album-art/Ghost_Lachryma.png",
+        "artist": "Ghost",
+        "song": "Lachryma",
+        "album": "Skeletá",
+        "generated_at": "2026-08-24T00:00:00Z"
+      },
+      {
+        "id": "ghost-hunters-moon",
+        "filename": "Ghost_HuntersMoon.png",
+        "path": "images/album-art/Ghost_HuntersMoon.png",
+        "artist": "Ghost",
+        "song": "Hunter's Moon",
+        "album": "Impera",
+        "generated_at": "2026-08-24T00:00:00Z"
+      },
+      {
+        "id": "ghost-call-me-little-sunshine",
+        "filename": "Ghost_CallMeLittleSunshine.png",
+        "path": "images/album-art/Ghost_CallMeLittleSunshine.png",
+        "artist": "Ghost",
+        "song": "Call Me Little Sunshine",
+        "album": "Impera",
+        "generated_at": "2026-08-24T00:00:00Z"
+      },
+      {
+        "id": "ghost-dance-macabre",
+        "filename": "Ghost_DanceMacabre.png",
+        "path": "images/album-art/Ghost_DanceMacabre.png",
+        "artist": "Ghost",
+        "song": "Dance Macabre",
+        "album": "Prequelle",
+        "generated_at": "2026-08-24T00:00:00Z"
+      },
+      {
+        "id": "ghost-watcher-in-the-sky",
+        "filename": "Ghost_WatcherInTheSky.png",
+        "path": "images/album-art/Ghost_WatcherInTheSky.png",
+        "artist": "Ghost",
+        "song": "Watcher in the Sky",
+        "album": "Impera",
+        "generated_at": "2026-08-24T00:00:00Z"
+      },
+      {
+        "id": "ghost-kaisarion",
+        "filename": "Ghost_Kaisarion.png",
+        "path": "images/album-art/Ghost_Kaisarion.png",
+        "artist": "Ghost",
+        "song": "Kaisarion",
+        "album": "Impera",
+        "generated_at": "2026-08-24T00:00:00Z"
+      },
+      {
+        "id": "ghost-darkness-at-the-heart-of-my-love",
+        "filename": "Ghost_DarknessAtTheHeartOfMyLove.png",
+        "path": "images/album-art/Ghost_DarknessAtTheHeartOfMyLove.png",
+        "artist": "Ghost",
+        "song": "Darkness at the Heart of My Love",
+        "album": "Impera",
+        "generated_at": "2026-08-24T00:00:00Z"
+      }
+
                ]
 }
