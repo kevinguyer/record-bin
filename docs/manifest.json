@@ -3309,7 +3309,196 @@
         "song": "Darkness at the Heart of My Love",
         "album": "Impera",
         "generated_at": "2026-08-24T00:00:00Z"
-      }
+      },
+		{
+            "id": "matt-nathanson-curve-of-the-earth",
+            "filename": "MattNathanson_CurveoftheEarth.png",
+            "path": "images/album-art/MattNathanson_CurveoftheEarth.png",
+            "artist": "Matt Nathanson",
+            "song": "Curve of the Earth",
+            "album": "Beneath These Fireworks",
+            "generated_at": "2026-08-25T00:00:00Z"
+        },
+        {
+            "id": "no-more-kings-someday",
+            "filename": "NoMoreKings_Someday.png",
+            "path": "images/album-art/NoMoreKings_Someday.png",
+            "artist": "No More Kings",
+            "song": "Someday",
+            "album": "No More Kings",
+            "generated_at": "2026-08-25T00:00:00Z"
+        },
+        {
+            "id": "sugar-if-i-can-t-change-your-mind",
+            "filename": "Sugar_IfICantChangeYourMind.png",
+            "path": "images/album-art/Sugar_IfICantChangeYourMind.png",
+            "artist": "Sugar",
+            "song": "If I Can't Change Your Mind",
+            "album": "Copper Blue",
+            "generated_at": "2026-08-25T00:00:00Z"
+        },
+        {
+            "id": "sugar-a-good-idea",
+            "filename": "Sugar_AGoodIdea.png",
+            "path": "images/album-art/Sugar_AGoodIdea.png",
+            "artist": "Sugar",
+            "song": "A Good Idea",
+            "album": "Copper Blue",
+            "generated_at": "2026-08-25T00:00:00Z"
+        },
+        {
+            "id": "bob-seger-night-moves",
+            "filename": "BobSeger_NightMoves.png",
+            "path": "images/album-art/BobSeger_NightMoves.png",
+            "artist": "Bob Seger",
+            "song": "Night Moves",
+            "album": "Night Moves",
+            "generated_at": "2026-08-25T00:00:00Z"
+        },
+        {
+            "id": "green-day-american-idiot",
+            "filename": "GreenDay_AmericanIdiot.png",
+            "path": "images/album-art/GreenDay_AmericanIdiot.png",
+            "artist": "Green Day",
+            "song": "American Idiot",
+            "album": "American Idiot",
+            "generated_at": "2026-08-25T00:00:00Z"
+        },
+        {
+            "id": "lorde-royals",
+            "filename": "Lorde_Royals.png",
+            "path": "images/album-art/Lorde_Royals.png",
+            "artist": "Lorde",
+            "song": "Royals",
+            "album": "Pure Heroine",
+            "generated_at": "2026-08-26T00:00:00Z"
+        },
+        {
+            "id": "men-at-work-overkill",
+            "filename": "MenatWork_Overkill.png",
+            "path": "images/album-art/MenatWork_Overkill.png",
+            "artist": "Men at Work",
+            "song": "Overkill",
+            "album": "Cargo",
+            "generated_at": "2026-08-26T00:00:00Z"
+        },
+        {
+            "id": "men-at-work-it-s-a-mistake",
+            "filename": "MenatWork_ItsaMistake.png",
+            "path": "images/album-art/MenatWork_ItsaMistake.png",
+            "artist": "Men at Work",
+            "song": "It's a Mistake",
+            "album": "Cargo",
+            "generated_at": "2026-08-26T00:00:00Z"
+        },
+        {
+            "id": "blue-oyster-cult-eti",
+            "filename": "BlueOysterCult_ETI.png",
+            "path": "images/album-art/BlueOysterCult_ETI.png",
+            "artist": "Blue Oyster Cult",
+            "song": "ETI",
+            "album": "Agents of Fortune",
+            "generated_at": "2026-08-26T00:00:00Z"
+        },
+        {
+            "id": "blue-oyster-cult-flaming-telepaths",
+            "filename": "BlueOysterCult_FlamingTelepaths.png",
+            "path": "images/album-art/BlueOysterCult_FlamingTelepaths.png",
+            "artist": "Blue Oyster Cult",
+            "song": "Flaming Telepaths",
+            "album": "Secret Treaties",
+            "generated_at": "2026-08-26T00:00:00Z"
+        },
+        {
+            "id": "blue-oyster-cult-vengeance-the-pact",
+            "filename": "BlueOysterCult_VengeancethePact.png",
+            "path": "images/album-art/BlueOysterCult_VengeancethePact.png",
+            "artist": "Blue Oyster Cult",
+            "song": "Vengeance the Pact",
+            "album": "Fire of Unknown Origin",
+            "generated_at": "2026-08-26T00:00:00Z"
+        },
+        {
+            "id": "blue-oyster-cult-black-blade",
+            "filename": "BlueOysterCult_BlackBlade.png",
+            "path": "images/album-art/BlueOysterCult_BlackBlade.png",
+            "artist": "Blue Oyster Cult",
+            "song": "Black Blade",
+            "album": "Cultösaurus Erectus",
+            "generated_at": "2026-08-26T00:00:00Z"
+        },
+        {
+            "id": "green-day-21st-century-breakdown",
+            "filename": "GreenDay_21stCenturyBreakdown.png",
+            "path": "images/album-art/GreenDay_21stCenturyBreakdown.png",
+            "artist": "Green Day",
+            "song": "21st Century Breakdown",
+            "album": "21st Century Breakdown",
+            "generated_at": "2026-08-27T00:00:00Z"
+        },
+        {
+            "id": "green-day-know-your-enemy",
+            "filename": "GreenDay_KnowYourEnemy.png",
+            "path": "images/album-art/GreenDay_KnowYourEnemy.png",
+            "artist": "Green Day",
+            "song": "Know Your Enemy",
+            "album": "21st Century Breakdown",
+            "generated_at": "2026-08-27T00:00:00Z"
+        },
+        {
+            "id": "green-day-last-of-the-american-girls",
+            "filename": "GreenDay_LastoftheAmericanGirls.png",
+            "path": "images/album-art/GreenDay_LastoftheAmericanGirls.png",
+            "artist": "Green Day",
+            "song": "Last of the American Girls",
+            "album": "21st Century Breakdown",
+            "generated_at": "2026-08-27T00:00:00Z"
+        },
+        {
+            "id": "green-day-burnout",
+            "filename": "GreenDay_Burnout.png",
+            "path": "images/album-art/GreenDay_Burnout.png",
+            "artist": "Green Day",
+            "song": "Burnout",
+            "album": "Dookie",
+            "generated_at": "2026-08-27T00:00:00Z"
+        },
+        {
+            "id": "green-day-when-i-come-around",
+            "filename": "GreenDay_WhenIComeAround.png",
+            "path": "images/album-art/GreenDay_WhenIComeAround.png",
+            "artist": "Green Day",
+            "song": "When I Come Around",
+            "album": "Dookie",
+            "generated_at": "2026-08-27T00:00:00Z"
+        },
+        {
+            "id": "green-day-welcome-to-paradise",
+            "filename": "GreenDay_WelcometoParadise.png",
+            "path": "images/album-art/GreenDay_WelcometoParadise.png",
+            "artist": "Green Day",
+            "song": "Welcome to Paradise",
+            "album": "Dookie",
+            "generated_at": "2026-08-28T00:00:00Z"
+        },
+        {
+            "id": "green-day-holiday",
+            "filename": "GreenDay_Holiday.png",
+            "path": "images/album-art/GreenDay_Holiday.png",
+            "artist": "Green Day",
+            "song": "Holiday",
+            "album": "American Idiot",
+            "generated_at": "2026-08-28T00:00:00Z"
+        },
+        {
+            "id": "green-day-she-s-a-rebel",
+            "filename": "GreenDay_ShesaRebel.png",
+            "path": "images/album-art/GreenDay_ShesaRebel.png",
+            "artist": "Green Day",
+            "song": "She's a Rebel",
+            "album": "American Idiot",
+            "generated_at": "2026-08-28T00:00:00Z"
+        }
 
                ]
 }
